@@ -5,6 +5,7 @@ This is the master index for PAR Aero device design projects; below this table i
 | PROJECT      | SUMMARY                                                         | REPO                                                                |
 |--------------|-----------------------------------------------------------------|---------------------------------------------------------------------|
 | **AIN**      | 500g freefall data capture and chute servo prototypes.          | [PAR-Aero-Ain](https://github.com/cpknight/PAR-Aero-Ain)            |
+|              | `0.1` Cardboard box RPi freefall state machine: data capture.   | [../ain-0.1/](https://github.com/cpknight/PAR-Aero-Ain/ain-0.1/) 
 | **ALPES**    | 100g shuttlecock freefall prototypes.                           | [PAR-Aero-Alpes](https://github.com/cpknight/PAR-Aero-Alpes)        |
 | **AUBE**     | 500g chute deploy freefall devices with payload prototypes.     | [PAR-Aero-Aube](https://github.com/cpknight/PAR-Aero-Aube)          |
 | **AVEYRON**  | 250g flying wing autonomous aerial vehicles (AAV).              | [PAR-Aero-Aveyron](https://github.com/cpknight/PAR-Aero-Aveyron)    |
