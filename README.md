@@ -5,19 +5,17 @@ This is the master index for PAR Aero device design projects; below this table i
 | PROJECT      | SUMMARY                                                         | REPO                                                                |
 |--------------|-----------------------------------------------------------------|---------------------------------------------------------------------|
 | **`AIN`**      | 500g freefall data capture and chute servo prototypes.          | [PAR-Aero-Ain](https://github.com/cpknight/PAR-Aero-Ain)            |
-| ... `0.1`    | _Cardboard box RPi freefall state machine: data capture._       
+| ... `0.1`    | _Cardboard box RPi freefall state machine: data capture._   
+| ... `0.1arp` | _Freefall state machine: Arduino RP 2400 Pico port._ |
 | ... `0.3`    | _Cardboard box RPi freefall state machine: servo chute deployment._
 | **ALPES**    | 100g shuttlecock freefall prototypes.                           | [PAR-Aero-Alpes](https://github.com/cpknight/PAR-Aero-Alpes)        |
+| ... `` |
 | **AUBE**     | 500g chute deploy freefall devices with payload prototypes.     | [PAR-Aero-Aube](https://github.com/cpknight/PAR-Aero-Aube)          |
 | **AVEYRON**  | 250g flying wing autonomous aerial vehicles (AAV).              | [PAR-Aero-Aveyron](https://github.com/cpknight/PAR-Aero-Aveyron)    |
 | **BEAUFORT** | Parachute and deployment bag prototypes.                        | [PAR-Aero-Beaufort](https://github.com/cpknight/PAR-Aero-Beaufort)  |
 | **CANTAL**   | 250g vertical cylinder with integrated parachute and payloads.  | [PAR-Aero-Cantal](https://github.com/cpknight/PAR-Aero-Cantal)      |
 
 
-
-AIN	            500g freefall data capture and chute servo prototypes.
-	0.1         	- Cardboard box RPi freefall state machine: data capture.
-	0.3         	- Cardboard box RPi freefall state machine: servo chute deployment.
 
 ALPES       		100g shuttlecock freefall prototypes.
 	0.1         	- Materials and structure concept test (RPi Zero simulated payload).
