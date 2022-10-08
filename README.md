@@ -2,14 +2,14 @@
  
 These is the master index for PAR Aero device design projects; below this table is a summary of each sub-project/version/revision. Each project will correspond to a separate `PAR-Aero` Github repository, while each sub-project will correspond to a top-level directory in those repositories. Projects are named after départements of France, and may correspond to any aspect of PAR Aero device design and prototyping - airframes, parachutes, hardware, software, or tactics.
   
-| PROJECT  | SUMMARY                                                         | REPO                                                        |
-|----------|-----------------------------------------------------------------|-------------------------------------------------------------|
-| AIN	   | 500g freefall data capture and chute servo prototypes.          | [PAR-Aero-Ain](github.com/cpknight/PAR-Aero-Ain)            |
-| ALPES    | 100g shuttlecock freefall prototypes.                           | [PAR-Aero-Alpes](github.com/cpknight/PAR-Aero-Alpes)        |
-| AUBE     | 500g chute deploy freefall devices with payload prototypes.     | [PAR-Aero-Aube](github.com/cpknight/PAR-Aero-Aube)          |
-| AVEYRON  | 250g flying wing autonomous aerial vehicles (AAV).              | [PAR-Aero-Aveyron](github.com/cpknight/PAR-Aero-Aveyron)    |
-| BEAUFORT | Parachute and deployment bag prototypes.                        | [PAR-Aero-Beaufort](github.com/cpknight/PAR-Aero-Beaufort)  |
-| CANTAL   | 250g vertical cylinder with integrated parachute and payloads.  | [PAR-Aero-Cantal](github.com/cpknight/PAR-Aero-Cantal)      |
+| PROJECT  | SUMMARY                                                         | REPO                                                                |
+|----------|-----------------------------------------------------------------|---------------------------------------------------------------------|
+| AIN	   | 500g freefall data capture and chute servo prototypes.          | [PAR-Aero-Ain](https://github.com/cpknight/PAR-Aero-Ain)            |
+| ALPES    | 100g shuttlecock freefall prototypes.                           | [PAR-Aero-Alpes](https://github.com/cpknight/PAR-Aero-Alpes)        |
+| AUBE     | 500g chute deploy freefall devices with payload prototypes.     | [PAR-Aero-Aube](https://github.com/cpknight/PAR-Aero-Aube)          |
+| AVEYRON  | 250g flying wing autonomous aerial vehicles (AAV).              | [PAR-Aero-Aveyron](https://github.com/cpknight/PAR-Aero-Aveyron)    |
+| BEAUFORT | Parachute and deployment bag prototypes.                        | [PAR-Aero-Beaufort](https://github.com/cpknight/PAR-Aero-Beaufort)  |
+| CANTAL   | 250g vertical cylinder with integrated parachute and payloads.  | [PAR-Aero-Cantal](https://github.com/cpknight/PAR-Aero-Cantal)      |
 
 
 
