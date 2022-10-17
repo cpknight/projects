@@ -24,14 +24,14 @@ This is the master index for PAR Aero device design projects; below this table i
 | `Aveyron-0.5` | _Micro AAV flight demonstrator_ |
 | `Aveyron-0.7` | _Micro AAV with payload demonstrator_ |
 | `Aveyron-0.9` | _Micro AAV with swappable payloads (EO, RF)_ |
-| :arrow_right: **`PROJECT BEAUFORT`** | **Small parachute and deployment devices** | [PAR-Aero-Beaufort](https://github.com/cpknight/PAR-Aero-Beaufort)  |
+| :arrow_right: **`PROJECT BEAUFORT`** | **Small parachute and deployment devices**: | [PAR-Aero-Beaufort](https://github.com/cpknight/PAR-Aero-Beaufort)  |
 | `Beaufort-02.01` | _Plastic bag parachute_ |
 | `Beaufort-02.02` | _Plastic and tulle parachute_ |
 | `Beaufort-03.01` | _Small chute deployment bag_ |
 | `Beaufort-03.03` | _0.75m round ripstop nylon parachute_ |
 | `Beaufort-03.05` | _1m cruciform ripstop nylon parachute_ |
 | `Beaufort-90.01` | _1m ram air parachute (3rd party design-build) tests_ |
-| :arrow_right: **`PROJECT CANTAL`** | **Cylidrical freefall devices; itegrated parachutes/payloads (250g)** | [PAR-Aero-Cantal](https://github.com/cpknight/PAR-Aero-Cantal) |
+| :arrow_right: **`PROJECT CANTAL`** | **Cylidrical freefall devices; itegrated parachutes/payloads (250g)**: | [PAR-Aero-Cantal](https://github.com/cpknight/PAR-Aero-Cantal) |
 | `Cantal-0.1` | _Materials and structure test (Beaufort 03.03 chute, no payload)_ |
 | `Cantal-0.3` | _Small diameter materials and structure test (no chute, no payload)_ |
 | :arrow_right: **`PROJECT SARTHE`** | **Aerial Recconnaissance Convolutional Neural Networks**: | [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-AERO-Sarthe) |
