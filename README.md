@@ -34,14 +34,24 @@ This is the master index for PAR Aero device design projects; below this table i
 | :arrow_right: **`PROJECT CANTAL`** | **Cylidrical freefall devices; itegrated parachutes/payloads (250g)**: | [PAR-Aero-Cantal](https://github.com/cpknight/PAR-Aero-Cantal) |
 | `Cantal-0.1` | _Materials and structure test (Beaufort 03.03 chute, no payload)_ |
 | `Cantal-0.3` | _Small diameter materials and structure test (no chute, no payload)_ |
-| :arrow_right: **`PROJECT SARTHE`** | **Aerial Recconnaissance Convolutional Neural Networks**: | [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-AERO-Sarthe) |
-| `` | _Lorem_ |
-| `` | _Lorem_ |
-| `` | _Lorem_ |
-| `` | _Lorem_ |
+| :arrow_right: **`PROJECT SARTHE`** | **Aerial Recconnaissance Convolutional Neural Networks**: | [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe) |
+`Sarthe-PAR-04` | Recognition/detection of roads, vehicles, intersections (Oblique EO/rgb; 10cm to 1m GSD). | [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-04) |
+`Sarthe-PAR-05` | Recognition/detection of roads, vehicles, intersections (Vertical EO/rgb; 10cm to 1m GSD).  [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-05) |
+`Sarthe-PAR-06` | Recognition/detection of combatant/non-combatant items of interest (Oblique EO/rgb 10cm to 50cm GSD).  [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-06) |
+`Sarthe-PAR-07` | Recognition/detection of combatant/non-combatant items of interest (Vertical EO/rgb 50cm to 1m GSD).  [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-07) |
+`Sarthe-PAR-08` | Recognition/detection of downed aircraft from sub-optimal data (Vertical EO/rgb 50cm to 1m GSD).  [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-08) |
+`Sarthe-PAR-09` | Detection of active wildfires (Vertical EO/rgb 50cm to 1m GSD).  [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-04) |
+`Sarthe-PAR-0B` | Recognition/detection of pipelines, compressor stations, extraction sites (Vertical EO/rgb 10cm to 1m GSD).  [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0B) |
+`Sarthe-PAR-0C` | Recognition/detection of transmission lines, generating stations, substations (Vertical EO/rgb 10cm to 1m GSD).  [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0C) |
+`Sarthe-PAR-0E` | Recognition/detection for active wildfire operations (Vertical EO/rgb 10cm to 1m GSD).  [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0E) |
+`Sarthe-PAR-0F` | Recognition/detection of "built" infrastructure in wilderness locations (Oblique EO/rgb 10cm to 50cm GSD).  [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0F) |
+`Sarthe-PAR-10` | Recognition/detection of built aircraft landing sites (Vertical EO/rgb 10cm to 50cm GSD).  [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-10) |
 | :arrow_right: **`PROJECT NAME`** | **Project Description**: | [PAR-Aero-Reponame](https://github.com/cpknight/PAR-AERO-Reponame) |
 | `` | _Lorem_ |
 | `` | _Lorem_ |
 | `` | _Lorem_ |
 | `` | _Lorem_ |
 | `12345678901234567890` | (_This row included just to force MD spacing on GitHub..._) | `123456789012345678901234567890` |
+
+
+
