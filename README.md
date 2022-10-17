@@ -1,6 +1,6 @@
 ## PAR-AERO Devices – Design and Prototype Projects
  
-This is the master index for PAR Aero device design projects; below this table is a summary of each sub-project/version/revision. Each project will correspond to a `PAR-Aero-...` Github repository, while each sub-project will correspond to _either_ (i) a top-level directory in those repositories, _or_ (ii) a separate repository for the sub-project. Projects are named after départements of France, and may correspond to any aspect of PAR Aero device design and prototyping - airframes, parachutes, hardware, software, or tactics. 
+This is the master index for [PAR Aero](https://palliser.aero/) device design projects; below this table is a summary of each sub-project/version/revision. Each project will correspond to a `PAR-Aero-...` Github repository, while each sub-project will correspond to _either_ (i) a top-level directory in those repositories, _or_ (ii) a separate repository for the sub-project. Projects are named after départements of France, and may correspond to any aspect of PAR Aero device design and prototyping - airframes, parachutes, hardware, software, or tactics. 
 
 Contact [@cpknight](https://github.com/cpknight) with your Github username for access to the repository that you're working on – many of these repositories make use of [Git Large File Storage](https://git-lfs.github.com/), so please also enable that extension on your system. 
   
@@ -16,7 +16,7 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 | `Aube-0.1` | _Static chute foil tape cardboard construction wtih digital camera payload._ |
 | `Aube-0.3` | _Static chute cardboard construction with RPi RF data capture payload. (Aube 0.5 Freefall State Machine forked from Ain 0.1)._ |
 | `Aube-0.5` | _Static chute foamcore construction with RPi sensor data capture payload. (Aube 0.5 Freefall State Machine forked from Ain 0.3)._ |
-| `Aube-0.7` | Integrated chute deployment with RPi control and sensor payload._ |
+| `Aube-0.7` | _Integrated chute deployment with RPi control and sensor payload._ |
 | :arrow_right: **`PROJECT AVEYRON`** | **Flying wing autonomous aerial vehicles (500g)**: | [PAR-Aero-Aveyron](https://github.com/cpknight/PAR-Aero-Aveyron) |
 | `Aveyron-0.1-X1a` | _Micro RPAS flight demonstrator I (Micro Flying Wing; 250g)_ |
 | `Aveyron-0.1-X1b` | _Micro RPAS flight demonstrator I (Micro Gliding Wing; 250g)_ |
@@ -36,6 +36,10 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 | :arrow_right: **`PROJECT CANTAL`** | **Cylindrical freefall devices; integrated parachutes/payloads (250g)**: | [PAR-Aero-Cantal](https://github.com/cpknight/PAR-Aero-Cantal) |
 | `Cantal-0.1` | _Materials and structure test (Beaufort 03.03 chute, no payload)_ |
 | `Cantal-0.3` | _Small diameter materials and structure test (no chute, no payload)_ |
+| :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**: | [PAR-Aero-Garonne](https://github.com/cpknight/PAR-AERO-Garonne) |
+| `Garonne-0.1` | _ISRbot platform designs._ |
+| `Garonne-0.5` | _ISRbot exploitation software demonstrator I._ |
+| `Garonne-0.6` | _ISRbot exploitation software demonstrator II._ |
 | :arrow_right: **`PROJECT SARTHE`** | **Aerial Recce Convolutional Neural Networks (CNNs)**: | [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe) |
 `Sarthe-PAR-04` | Recognition/detection of roads, vehicles, intersections (Oblique EO/rgb; 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-04](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-04) |
 `Sarthe-PAR-05` | Recognition/detection of roads, vehicles, intersections (Vertical EO/rgb; 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-05](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-05) |
