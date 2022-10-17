@@ -36,7 +36,7 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 | :arrow_right: **`PROJECT CANTAL`** | **Cylindrical freefall devices; integrated parachutes/payloads (250g)**: | [PAR-Aero-Cantal](https://github.com/cpknight/PAR-Aero-Cantal) |
 | `Cantal-0.1` | _Materials and structure test (Beaufort 03.03 chute, no payload)_ |
 | `Cantal-0.3` | _Small diameter materials and structure test (no chute, no payload)_ |
-| :arrow_right: **`PROJECT SARTHE`** | **Aerial Recconnaissance Convolutional Neural Networks**: | [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe) |
+| :arrow_right: **`PROJECT SARTHE`** | **Aerial Recce Convolutional Neural Networks (CNNs)**: | [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe) |
 `Sarthe-PAR-04` | Recognition/detection of roads, vehicles, intersections (Oblique EO/rgb; 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-04](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-04) |
 `Sarthe-PAR-05` | Recognition/detection of roads, vehicles, intersections (Vertical EO/rgb; 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-05](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-05) |
 `Sarthe-PAR-06` | Recognition/detection of combatant/non-combatant items of interest (Oblique EO/rgb 10cm to 50cm GSD). | [PAR-Aero-Sarthe-PAR-06](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-06) |
