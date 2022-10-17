@@ -4,29 +4,26 @@ This is the master index for PAR Aero device design projects; below this table i
   
 | PROJECT      | SUMMARY                                                         | REPO                                                                |
 |--------------|-----------------------------------------------------------------|---------------------------------------------------------------------|
-| **`AIN`**      | 500g freefall data capture and chute servo prototypes.          | [PAR-Aero-Ain](https://github.com/cpknight/PAR-Aero-Ain)            |
-| ... `0.1`    | _Cardboard box RPi freefall state machine: data capture._   
-| ... `0.1arp` | _Freefall state machine: Arduino RP 2400 Pico port._ |
+| **`AIN`**    | **Freefall/parachute data capture devices (500g)**              | [PAR-Aero-Ain](https://github.com/cpknight/PAR-Aero-Ain)            |
+| ... `0.1`    | _Cardboard box RPi freefall state machine: data capture._       |                                                                   
+| ... `0.1arp` | _Freefall state machine: Arduino RP2040 (Pico) port._           |
 | ... `0.3`    | _Cardboard box RPi freefall state machine: servo chute deployment._
-| **ALPES**    | 100g shuttlecock freefall prototypes.                           | [PAR-Aero-Alpes](https://github.com/cpknight/PAR-Aero-Alpes)        |
-| ... `` |
-| **AUBE**     | 500g chute deploy freefall devices with payload prototypes.     | [PAR-Aero-Aube](https://github.com/cpknight/PAR-Aero-Aube)          |
-| **AVEYRON**  | 250g flying wing autonomous aerial vehicles (AAV).              | [PAR-Aero-Aveyron](https://github.com/cpknight/PAR-Aero-Aveyron)    |
-| **BEAUFORT** | Parachute and deployment bag prototypes.                        | [PAR-Aero-Beaufort](https://github.com/cpknight/PAR-Aero-Beaufort)  |
-| **CANTAL**   | 250g vertical cylinder with integrated parachute and payloads.  | [PAR-Aero-Cantal](https://github.com/cpknight/PAR-Aero-Cantal)      |
-
-
-
-ALPES       		100g shuttlecock freefall prototypes.
-	0.1         	- Materials and structure concept test (RPi Zero simulated payload).
-
-AUBE        		500g chute deploy freefall devices with payload prototypes.
-	0.1         	- Static chute foil tape cardboard construction wtih digital camera payload.
-	0.3         	- Static chute cardboard construction with RPi RF data capture payload.
-            		  (Aube 0.5 Freefall State Machine forked from Ain 0.1).
-	0.5	          - Static chute foamcore construction with RPi sensor data capture payload. 
-		              (Aube 0.5 Freefall State Machine forked from Ain 0.3).
-	0.7         	- Integrated chute deployment with RPi control and sensor payload.
+| **`ALPES`**  | **Freefall data capture devices (100g)**                        | [PAR-Aero-Alpes](https://github.com/cpknight/PAR-Aero-Alpes)        |
+| ... `0.1` | Materials and structure concept test (RPi Zero simulated payload). _ |
+| **`AUBE`**   | **Freefall/parachute aerial recce payload devices (500g)**      | [PAR-Aero-Aube](https://github.com/cpknight/PAR-Aero-Aube)          |
+| ... `0.1` | _Static chute foil tape cardboard construction wtih digital camera payload._ |
+| ... `0.3` | _Static chute cardboard construction with RPi RF data capture payload. (Aube 0.5 Freefall State Machine forked from Ain 0.1)._ |
+| ... `0.5` | _Static chute foamcore construction with RPi sensor data capture payload. (Aube 0.5 Freefall State Machine forked from Ain 0.3)._ |
+| ... `0.7` | Integrated chute deployment with RPi control and sensor payload._ |
+| **`AVEYRON`** | **Flying wing autonomous aerial vehicles (500g)**              | [PAR-Aero-Aveyron](https://github.com/cpknight/PAR-Aero-Aveyron)    |
+| ... `` | _Lorem _ |
+| ... `` | _Lorem _ |
+| **`BEAUFORT`** | **Small parachute and deployment devices**                    | [PAR-Aero-Beaufort](https://github.com/cpknight/PAR-Aero-Beaufort)  |
+| ... `` | _Lorem _ |
+| ... `` | _Lorem _ |
+| **`CANTAL`** | **Cylidrical freefall devices; itegrated parachutes/payloads (250g)** | [PAR-Aero-Cantal](https://github.com/cpknight/PAR-Aero-Cantal) |
+| ... `` | _Lorem _ |
+| ... `` | _Lorem _ |
 
 AVEYRON      		250g flying wing autonomous aerial vehicles (AAV).
 	0.1 X1a     	- Micro RPAS flight demonstrator I (Micro Flying Wing; 250g).
