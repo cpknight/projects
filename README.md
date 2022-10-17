@@ -26,7 +26,7 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 | `Aveyron-0.5` | _Micro AAV flight demonstrator_ |
 | `Aveyron-0.7` | _Micro AAV with payload demonstrator_ |
 | `Aveyron-0.9` | _Micro AAV with swappable payloads (EO, RF)_ |
-| :arrow_right: **`PROJECT BEAUFORT`** | **Small parachute and deployment devices**: | [PAR-Aero-Beaufort](https://github.com/cpknight/PAR-Aero-Beaufort)  |
+| :arrow_right: **`PROJECT BEAUFORT`** | **Small parachutes and deployment devices**: | [PAR-Aero-Beaufort](https://github.com/cpknight/PAR-Aero-Beaufort)  |
 | `Beaufort-02.01` | _Plastic bag parachute_ |
 | `Beaufort-02.02` | _Plastic and tulle parachute_ |
 | `Beaufort-03.01` | _Small chute deployment bag_ |
