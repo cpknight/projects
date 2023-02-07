@@ -46,7 +46,7 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 `Sarthe-PAR-05` | Recognition/detection of roads, vehicles, intersections (Vertical EO/rgb; 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-05](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-05) |
 `Sarthe-PAR-06` | Recognition/detection of combatant/non-combatant items of interest (Oblique EO/rgb 10cm to 50cm GSD). | [PAR-Aero-Sarthe-PAR-06](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-06) |
 `Sarthe-PAR-07` | Recognition/detection of combatant/non-combatant items of interest (Vertical EO/rgb 50cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-07](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-07) |
-`Sarthe-PAR-08` | Recognition/detection of downed aircraft from sub-optimal data (Vertical EO/rgb 50cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-07](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-08) |
+`Sarthe-PAR-08` | Recognition/detection of downed aircraft from sub-optimal data (Vertical EO/rgb 50cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-08](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-08) |
 `Sarthe-PAR-09` | Detection of active wildfires (Vertical EO/rgb 50cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-08](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-04) |
 `Sarthe-PAR-0B` | Recognition/detection of pipelines, compressor stations, extraction sites (Vertical EO/rgb 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-0B](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0B) |
 `Sarthe-PAR-0C` | Recognition/detection of transmission lines, generating stations, substations (Vertical EO/rgb 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-0C](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0C) |
