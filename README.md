@@ -35,7 +35,7 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 | `Cantal-0.1` | _Materials and structure test (Beaufort 03.03 chute, no payload)_ |
 | `Cantal-0.3` | _Small diameter materials and structure test (no chute, no payload)_ |
 | `Cantal-0.5` | _185mm diameter cylindrical payload enclosure (static chute)_ |
-| |            |  + _(reference payload bay and payload designs)_              |
+|              |  + _(reference payload bay and payload designs)_              |
 | :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**: | [PAR-Aero-Garonne](https://github.com/cpknight/PAR-AERO-Garonne) |
 | `Garonne-0.1` | _ISRbot platform designs._ |
 | `Garonne-0.5` | _ISRbot exploitation software demonstrator I._ |
