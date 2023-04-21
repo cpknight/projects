@@ -17,15 +17,13 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 | `Aube-0.3` | _Static chute cardboard construction with RPi RF data capture payload. (Aube 0.5 Freefall State Machine forked from Ain 0.1)._ |
 | `Aube-0.5` | _Static chute foamcore construction with RPi sensor data capture payload. (Aube 0.5 Freefall State Machine forked from Ain 0.3)._ |
 | `Aube-0.7` | _Integrated chute deployment with RPi control and sensor payload._ |
-| :arrow_right: **`PROJECT AVEYRON`** | **Flying wing autonomous aerial vehicles (500g)**: | [PAR-Aero-Aveyron](https://github.com/cpknight/PAR-Aero-Aveyron) |
+| :arrow_right: **`PROJECT AVEYRON`** | **Flying wing autonomous aerial vehicles.**: | [PAR-Aero-Aveyron](https://github.com/cpknight/PAR-Aero-Aveyron) |
 | `Aveyron-0.1-X1a` | _Micro RPAS flight demonstrator I (Micro Flying Wing; 250g)_ |
 | `Aveyron-0.1-X1b` | _Micro RPAS flight demonstrator I (Micro Gliding Wing; 250g)_ |
 | `Aveyron-0.1-X2` | _Micro RPAS flight demonstrator I (Mini Flying Wing; 280g)_ |
 | `Aveyron-0.1-X3` | _RPAS flight demonstrator (Stable Mini Airfoil; 350g)_ |
-| `Aveyron-0.3` | _Micro RPAS flight demonstrator II_ |
-| `Aveyron-0.5` | _Micro AAV flight demonstrator_ |
-| `Aveyron-0.7` | _Micro AAV with payload demonstrator_ |
-| `Aveyron-0.9` | _Micro AAV with swappable payloads (EO, RF)_ |
+| `Aveyron-1.0ɑ` | _Autonomous ground-launch Flying Wing with integrated Cantal payload bay._ |
+| `Aveyron-1.0β` | _Autonomous ground-launch Flying Wing, initial production kit._ |
 | :arrow_right: **`PROJECT BEAUFORT`** | **Small parachutes and deployment devices**: | [PAR-Aero-Beaufort](https://github.com/cpknight/PAR-Aero-Beaufort)  |
 | `Beaufort-02.01` | _Plastic bag parachute_ |
 | `Beaufort-02.02` | _Plastic and tulle parachute_ |
@@ -37,6 +35,7 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 | `Cantal-0.1` | _Materials and structure test (Beaufort 03.03 chute, no payload)_ |
 | `Cantal-0.3` | _Small diameter materials and structure test (no chute, no payload)_ |
 | `Cantal-0.5` | _185mm diameter cylindrical payload enclosure (static chute)_ |
+| |            |  + _(reference payload bay and payload designs)_              |
 | :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**: | [PAR-Aero-Garonne](https://github.com/cpknight/PAR-AERO-Garonne) |
 | `Garonne-0.1` | _ISRbot platform designs._ |
 | `Garonne-0.5` | _ISRbot exploitation software demonstrator I._ |
