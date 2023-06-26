@@ -52,6 +52,8 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 `Sarthe-NN0E` | Recognition/detection for active wildfire operations (Vertical EO/rgb 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-0E](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0E) |
 `Sarthe-NN0F` | Recognition/detection of "built" infrastructure in wilderness locations (Oblique EO/rgb 10cm to 50cm GSD). | [PAR-Aero-Sarthe-PAR-0F](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0F) |
 `Sarthe-NN10` | Recognition/detection of built aircraft landing sites (Vertical EO/rgb 10cm to 50cm GSD). | [PAR-Sarthe-NN10](https://github.com/cpknight/PAR-Sarthe-NN10) |
+| :arrow_right: **`PROJECT VOSGES`** | **Human Interface to PAR Devices**: | [PAR-Aero-Vosges](https://github.com/cpknight/PAR-Aero-Vosges) |
+| `` | _Lorem_ |
 | :arrow_right: **`PROJECT NAME`** | **Project Description**: | [PAR-Aero-Reponame](https://github.com/cpknight/PAR-AERO-Reponame) |
 | `` | _Lorem_ |
 | `` | _Lorem_ |
