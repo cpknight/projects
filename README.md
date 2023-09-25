@@ -41,19 +41,19 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 | `Garonne-0.5` | _ISRbot exploitation software demonstrator I._ |
 | `Garonne-0.6` | _ISRbot exploitation software demonstrator II._ |
 | :arrow_right: **`PROJECT SARTHE`** | **Aerial Recce Convolutional Neural Networks (CNNs)**: | [PAR-Aero-Sarthe](https://github.com/cpknight/PAR-Aero-Sarthe) |
-`Sarthe-NN04` | Recognition/detection of roads, vehicles, intersections (Oblique EO/rgb; 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-04](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-04) |
-`Sarthe-NN05` | Recognition/detection of roads, vehicles, intersections (Vertical EO/rgb; 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-05](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-05) |
-`Sarthe-NN06` | Recognition/detection of combatant/non-combatant items of interest (Oblique EO/rgb 10cm to 50cm GSD). | [PAR-Aero-Sarthe-PAR-06](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-06) |
-`Sarthe-NN07` | Recognition/detection of combatant/non-combatant items of interest (Vertical EO/rgb 50cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-07](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-07) |
-`Sarthe-NN08` | Recognition/detection of downed aircraft from sub-optimal data (Vertical EO/rgb 50cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-08](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-08) |
-`Sarthe-NN09` | Detection of active wildfires (Vertical EO/rgb 50cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-09](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-09) |
-`Sarthe-NN0B` | Recognition/detection of pipelines, compressor stations, extraction sites (Vertical EO/rgb 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-0B](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0B) |
-`Sarthe-NN0C` | Recognition/detection of transmission lines, generating stations, substations (Vertical EO/rgb 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-0C](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0C) |
-`Sarthe-NN0E` | Recognition/detection for active wildfire operations (Vertical EO/rgb 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-0E](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0E) |
-`Sarthe-NN0F` | Recognition/detection of "built" infrastructure in wilderness locations (Oblique EO/rgb 10cm to 50cm GSD). | [PAR-Aero-Sarthe-PAR-0F](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0F) |
-`Sarthe-NN10` | Recognition/detection of built aircraft landing sites (Vertical EO/rgb 10cm to 50cm GSD). | [PAR-Sarthe-NN10](https://github.com/cpknight/PAR-Sarthe-NN10) |
-| :arrow_right: **`PROJECT VOSGES`** | **Human Interface to PAR Devices**: | [PAR-Aero-Vosges](https://github.com/cpknight/PAR-Aero-Vosges) |
-| `` | _Lorem_ |
+| `Sarthe-NN04` | Recognition/detection of roads, vehicles, intersections (Oblique EO/rgb; 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-04](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-04) |
+| `Sarthe-NN05` | Recognition/detection of roads, vehicles, intersections (Vertical EO/rgb; 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-05](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-05) |
+| `Sarthe-NN06` | Recognition/detection of combatant/non-combatant items of interest (Oblique EO/rgb 10cm to 50cm GSD). | [PAR-Aero-Sarthe-PAR-06](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-06) |
+| `Sarthe-NN07` | Recognition/detection of combatant/non-combatant items of interest (Vertical EO/rgb 50cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-07](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-07) |
+| `Sarthe-NN08` | Recognition/detection of downed aircraft from sub-optimal data (Vertical EO/rgb 50cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-08](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-08) |
+| `Sarthe-NN09` | Detection of active wildfires (Vertical EO/rgb 50cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-09](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-09) |
+| `Sarthe-NN0B` | Recognition/detection of pipelines, compressor stations, extraction sites (Vertical EO/rgb 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-0B](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0B) |
+| `Sarthe-NN0C` | Recognition/detection of transmission lines, generating stations, substations (Vertical EO/rgb 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-0C](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0C) |
+| `Sarthe-NN0E` | Recognition/detection for active wildfire operations (Vertical EO/rgb 10cm to 1m GSD). | [PAR-Aero-Sarthe-PAR-0E](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0E) |
+| `Sarthe-NN0F` | Recognition/detection of "built" infrastructure in wilderness locations (Oblique EO/rgb 10cm to 50cm GSD). | [PAR-Aero-Sarthe-PAR-0F](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0F) |
+| `Sarthe-NN10` | Recognition/detection of built aircraft landing sites (Vertical EO/rgb 10cm to 50cm GSD). | [PAR-Sarthe-NN10](https://github.com/cpknight/PAR-Sarthe-NN10) |
+| :arrow_right: **`PROJECT VOSGES`** | **Paro MVP Payload Devices**: | [PAR-Aero-Vosges](https://github.com/cpknight/PAR-Aero-Vosges) |
+| `Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [PARO-Vosges-Mainboard](https://github.com/cpknight/PARO-Vosges-Mainboard) |
 | :arrow_right: **`PROJECT NAME`** | **Project Description**: | [PAR-Aero-Reponame](https://github.com/cpknight/PAR-AERO-Reponame) |
 | `` | _Lorem_ |
 | `` | _Lorem_ |
