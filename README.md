@@ -9,7 +9,7 @@
 - If you need access, contact [`@cpknight`](https://github.com/cpknight) with your Github username for access to the repository that you're working on – many of these repositories make use of [`Git Large File Storage`](https://git-lfs.github.com/), so please also enable that extension on your system. 
   
 | PROJECT      | SUMMARY                                                         | REPO                                                                |
-|--------------|-----------------------------------------------------------------|---------------------------------------------------------------------|
+| :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ |
 | :arrow_right: **`PROJECT AIN`** | **Freefall/parachute data capture devices (500g)**: | [`PAR-Aero-Ain`](https://github.com/cpknight/PAR-Aero-Ain) |
 | :black_small_square: `Ain-0.1`    | _Cardboard RPi freefall state machine: data capture._ | 
 | :black_small_square: `Ain-0.1arp` | _Freefall state machine: Arduino RP2040 (Pico) port._ |
