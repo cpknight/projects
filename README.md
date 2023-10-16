@@ -1,4 +1,4 @@
-## PAR-Aero Devices – Design and Prototype Projects
+## `PAR-Aero` Device Design and Prototype Projects
  
 This is the master index for [PAR Aero](https://palliser.aero/) device design projects; below this table is a summary of each sub-project/version/revision. Each project will correspond to a `PAR-Aero-...` Github repository, while each sub-project will correspond to _either_ (i) a top-level directory in those repositories, _or_ (ii) a separate repository for the sub-project. Projects are named after départements of France, and may correspond to any aspect of PAR Aero device design and prototyping - airframes, parachutes, hardware, software, or tactics. 
 
