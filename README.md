@@ -54,6 +54,7 @@ Contact [@cpknight](https://github.com/cpknight) with your Github username for a
 | `Sarthe-NN10` | Recognition/detection of built aircraft landing sites (Vertical EO/rgb 10cm to 50cm GSD). | [PAR-Sarthe-NN10](https://github.com/cpknight/PAR-Sarthe-NN10) |
 | :arrow_right: **`PROJECT VOSGES`** | **Paro MVP Payload Devices**: | [PAR-Aero-Vosges](https://github.com/cpknight/PAR-Aero-Vosges) |
 | `Vosges-Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [PARO-Vosges-Mainboard](https://github.com/cpknight/PARO-Vosges-Mainboard) |
+| `Vosges-Case` | Case 3D Design. | [PARO-Vosges-Case](https://github.com/cpknight/PARO-Vosges-Case) |
 | :arrow_right: **`PROJECT NAME`** | **Project Description**: | [PAR-Aero-Reponame](https://github.com/cpknight/PAR-AERO-Reponame) |
 | `` | _Lorem_ |
 | `` | _Lorem_ |
