@@ -14,16 +14,16 @@
 | :black_small_square: `Ain-0.1`    | _Cardboard RPi freefall state machine: data capture._ | 
 | :black_small_square: `Ain-0.1arp` | _Freefall state machine: Arduino RP2040 (Pico) port._ |
 | :black_small_square: `Ain-0.3`    | _Cardboard RPi freefall state machine: servo chute deployment._ |
-|              |                                                                 |                                                                     |
+| :black_small_square: |  |  |
 | :arrow_right: **`PROJECT ALPES`**  | **Freefall data capture devices (100g)**: | [`PAR-Aero-Alpes`](https://github.com/cpknight/PAR-Aero-Alpes) |
 | `Alpes-0.1` | _Materials and structure concept test (RPi Zero simulated payload)._ |
-|              |                                                                 |                                                                     |
+| :black_small_square: |  |  |
 | :arrow_right: **`PROJECT AUBE`** | **Freefall/parachute aerial recce payload devices (500g)**: | [`PAR-Aero-Aube`](https://github.com/cpknight/PAR-Aero-Aube) |
 | :black_small_square: `Aube-0.1` | _Static chute foil tape cardboard construction wtih digital camera payload._ |
 | :black_small_square: `Aube-0.3` | _Static chute cardboard construction with RPi RF data capture payload. (Aube 0.5 Freefall State Machine forked from Ain 0.1)._ |
 | :black_small_square: `Aube-0.5` | _Static chute foamcore construction with RPi sensor data capture payload. (Aube 0.5 Freefall State Machine forked from Ain 0.3)._ |
 | :black_small_square: `Aube-0.7` | _Integrated chute deployment with RPi control and sensor payload._ |
-|              |                                                                 |                                                                     |
+| :black_small_square: |  |  |
 | :arrow_right: **`PROJECT AVEYRON`** | **Flying wing autonomous aerial vehicles.**: | [`PAR-Aero-Aveyron`](https://github.com/cpknight/PAR-Aero-Aveyron) |
 | :black_small_square: `Aveyron-0.1-X1a` | _Micro RPAS flight demonstrator I (Micro Flying Wing; 250g)_ |
 | :black_small_square: `Aveyron-0.1-X1b` | _Micro RPAS flight demonstrator I (Micro Gliding Wing; 250g)_ |
@@ -31,7 +31,7 @@
 | :black_small_square: `Aveyron-0.1-X3` | _RPAS flight demonstrator (Stable Mini Airfoil; 350g)_ |
 | :black_small_square: `Aveyron-1.0ɑ` | _Autonomous ground-launch Flying Wing with integrated Cantal payload bay._ |
 | :black_small_square: `Aveyron-1.0β` | _Autonomous ground-launch Flying Wing, initial production kit._ |
-|              |                                                                 |                                                                     |
+| :black_small_square: |  |  |
 | :arrow_right: **`PROJECT BEAUFORT`** | **Small parachutes and deployment devices**: | [`PAR-Aero-Beaufort`](https://github.com/cpknight/PAR-Aero-Beaufort)  |
 | :black_small_square: `Beaufort-02.01` | _Plastic bag parachute_ |
 | :black_small_square: `Beaufort-02.02` | _Plastic and tulle parachute_ |
@@ -39,7 +39,7 @@
 | :black_small_square: `Beaufort-03.03` | _0.75m round ripstop nylon parachute_ |
 | :black_small_square: `Beaufort-03.05` | _1m cruciform ripstop nylon parachute_ |
 | :black_small_square: `Beaufort-90.01` | _1m ram air parachute (3rd party design-build) tests_ |
-|              |                                                                 |                                                                     |
+| :black_small_square: |  |  |
 | :arrow_right: **`PROJECT CANTAL`** | **Cylindrical freefall devices; integrated parachutes/payloads (250g)**: | [`PAR-Aero-Cantal`](https://github.com/cpknight/PAR-Aero-Cantal) |
 | :black_small_square: `Cantal-0.1` | _Materials and structure test (Beaufort 03.03 chute, no payload)_ |
 | :black_small_square: `Cantal-0.3` | _Small diameter materials and structure test (no chute, no payload)_ |
@@ -47,12 +47,12 @@
 | :black_small_square: `Cantal-1.0` | _185mm payload enclosure and reference payload design_ |
 | :black_small_square: `Cantal-1.5` | _185mm payload enclosure and reference payload design_ |
 | :black_small_square: `Cantal-1.6` | _185mm payload enclosure and reference payload design_ |
-|              |                                                                 |                                                                     |
+| :black_small_square: |  |  |
 | :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**: | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
 | :black_small_square: `Garonne-0.1` | _ISRbot platform designs._ |
 | :black_small_square: `Garonne-0.5` | _ISRbot exploitation software demonstrator I._ |
 | :black_small_square: `Garonne-0.6` | _ISRbot exploitation software demonstrator II._ |
-|              |                                                                 |                                                                     |
+| :black_small_square: |  |  |
 | :arrow_right: **`PROJECT SARTHE`** | **Aerial Recce Convolutional Neural Networks (CNNs)**: | [`PAR-Aero-Sarthe`](https://github.com/cpknight/PAR-Aero-Sarthe) |
 | :black_small_square: `Sarthe-NN04` | Recognition/detection of roads, vehicles, intersections (Oblique EO/rgb; 10cm to 1m GSD). | [`PAR-Aero-Sarthe-PAR-04`](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-04) |
 | :black_small_square: `Sarthe-NN05` | Recognition/detection of roads, vehicles, intersections (Vertical EO/rgb; 10cm to 1m GSD). | [`PAR-Aero-Sarthe-PAR-05`](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-05) |
@@ -65,11 +65,11 @@
 | :black_small_square: `Sarthe-NN0E` | Recognition/detection for active wildfire operations (Vertical EO/rgb 10cm to 1m GSD). | [`PAR-Aero-Sarthe-PAR-0E`](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0E) |
 | :black_small_square: `Sarthe-NN0F` | Recognition/detection of "built" infrastructure in wilderness locations (Oblique EO/rgb 10cm to 50cm GSD). | [`PAR-Aero-Sarthe-PAR-0F`](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0F) |
 | :black_small_square: `Sarthe-NN10` | Recognition/detection of built aircraft landing sites (Vertical EO/rgb 10cm to 50cm GSD). | [`PAR-Sarthe-NN10`](https://github.com/cpknight/PAR-Sarthe-NN10) |
-|              |                                                                 |                                                                     |
+| :black_small_square: |  |  |
 | :arrow_right: **`PROJECT VOSGES`** | **Paro MVP Payload Devices**: | [`PAR-Aero-Vosges`](https://github.com/cpknight/PAR-Aero-Vosges) |
 | :black_small_square: `Vosges-Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [`PARO-Vosges-Mainboard`](https://github.com/cpknight/PARO-Vosges-Mainboard) |
 | :black_small_square: `Vosges-Case` | Case 3D Design. | [`PARO-Vosges-Case`](https://github.com/cpknight/PARO-Vosges-Case) |
-|              |                                                                 |                                                                     |
+| :black_small_square: |  |  |
 | `12345678901234567890` |  | `123456789012345678901234567890` |
 
 
