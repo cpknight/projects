@@ -44,7 +44,9 @@
 | :black_small_square: `Cantal-0.1` | _Materials and structure test (Beaufort 03.03 chute, no payload)_ |
 | :black_small_square: `Cantal-0.3` | _Small diameter materials and structure test (no chute, no payload)_ |
 | :black_small_square: `Cantal-0.5` | _185mm diameter cylindrical payload enclosure (static chute)_ |
-|              |  + _(reference payload bay and payload designs)_              |
+| :black_small_square: `Cantal-1.0` | _185mm payload enclosure and reference payload design_ |
+| :black_small_square: `Cantal-1.5` | _185mm payload enclosure and reference payload design_ |
+| :black_small_square: `Cantal-1.6` | _185mm payload enclosure and reference payload design_ |
 |              |                                                                 |                                                                     |
 | :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**: | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
 | :black_small_square: `Garonne-0.1` | _ISRbot platform designs._ |
