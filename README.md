@@ -1,6 +1,6 @@
 ## `PAR-Aero` Device Design and Prototype Projects
  
-:information_source: This is the master index for my ([`CPKnight`](https://palliser.aero/)) device design projects; below this table is a summary of each sub-project/version/revision. 
+:information_source: This is the master index for my device design projects; the below table is a summary of each sub-project/version/revision: 
 
 - Each project will correspond to a `PAR-Aero-...` Github repository, while each sub-project will correspond to _either_ (i) a top-level directory in those repositories, _or_ (ii) a separate repository for the sub-project. 
 
