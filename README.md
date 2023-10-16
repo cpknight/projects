@@ -16,7 +16,7 @@
 | :black_small_square: `Ain-0.3`    | _Cardboard RPi freefall state machine: servo chute deployment._ |
 | :black_small_square: |  |  |
 | :arrow_right: **`PROJECT ALPES`**  | **Freefall data capture devices (100g)**: | [`PAR-Aero-Alpes`](https://github.com/cpknight/PAR-Aero-Alpes) |
-| `Alpes-0.1` | _Materials and structure concept test (RPi Zero simulated payload)._ |
+| :black_small_square: `Alpes-0.1` | _Materials and structure concept test (RPi Zero simulated payload)._ |
 | :black_small_square: |  |  |
 | :arrow_right: **`PROJECT AUBE`** | **Freefall/parachute aerial recce payload devices (500g)**: | [`PAR-Aero-Aube`](https://github.com/cpknight/PAR-Aero-Aube) |
 | :black_small_square: `Aube-0.1` | _Static chute foil tape cardboard construction wtih digital camera payload._ |
