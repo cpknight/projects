@@ -49,9 +49,10 @@
 | :black_small_square: `Cantal-1.6` | _185mm payload enclosure and reference payload design_ |
 | :black_small_square: |  |  |
 | :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**: | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
-| :black_small_square: `Garonne-0.1` | _ISRbot platform designs._ |
-| :black_small_square: `Garonne-0.5` | _ISRbot exploitation software demonstrator I._ |
-| :black_small_square: `Garonne-0.6` | _ISRbot exploitation software demonstrator II._ |
+| :black_small_square: `Garonne-0.1` | _ISRbot platform designs._ | |
+| :black_small_square: `Garonne-0.5` | _ISRbot exploitation software demonstrator I._ | |
+| :black_small_square: `Garonne-0.6` | _ISRbot exploitation software demonstrator II._ | |
+| :black_small_square: `Garonne-Experimental` | _Experimental algorithms and processing._ | [`PAR-Garonne-Experimental`](https://github.com/cpknight/PAR-Garonne-Experimental) |
 | :black_small_square: |  |  |
 | :arrow_right: **`PROJECT SARTHE`** | **Aerial Recce Convolutional Neural Networks (CNNs)**: | [`PAR-Aero-Sarthe`](https://github.com/cpknight/PAR-Aero-Sarthe) |
 | :black_small_square: `Sarthe-NN04` | Recognition/detection of roads, vehicles, intersections (Oblique EO/rgb; 10cm to 1m GSD). | [`PAR-Aero-Sarthe-PAR-04`](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-04) |
