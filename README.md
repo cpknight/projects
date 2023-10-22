@@ -70,6 +70,7 @@
 | :arrow_right: **`PROJECT VOSGES`** | **Paro MVP Payload Devices**: | [`PAR-Aero-Vosges`](https://github.com/cpknight/PAR-Aero-Vosges) |
 | :black_small_square: `Vosges-Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [`PARO-Vosges-Mainboard`](https://github.com/cpknight/PARO-Vosges-Mainboard) |
 | :black_small_square: `Vosges-Case` | Case 3D Design. | [`PARO-Vosges-Case`](https://github.com/cpknight/PARO-Vosges-Case) |
+| :black_small_square: `Vosges-Logistics` | Packaging and Logistics. | [`PARO-Vosges-Logistics`](https://github.com/cpknight/PARO-Vosges-Logistics) |
 | :black_small_square: |  |  |
 | `12345678901234567890` |  | `123456789012345678901234567890` |
 
