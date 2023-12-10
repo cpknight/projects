@@ -73,6 +73,8 @@
 | :black_small_square: `Vosges-Logistics` | Packaging and Logistics. | [`PARO-Vosges-Logistics`](https://github.com/cpknight/PARO-Vosges-Logistics) |
 | :black_small_square: `Paro` | End-User Documentation. | [`Paro`](https://github.com/cpknight/Paro) |
 | :black_small_square: |  |  |
+| :arrow_right: **`PROJECT YONNE`** | **GNSS Clock Devices**: | [`cpknight/Yonne`](https://github.com/cpknight/Yonne) |
+| :black_small_square: |  |  |
 | `12345678901234567890` |  | `123456789012345678901234567890` |
 
 
