@@ -76,6 +76,7 @@
 | :arrow_right: **`PROJECT YONNE`** | **GNSS Clock Devices** | [`cpknight/Yonne`](https://github.com/cpknight/Yonne) |
 | :black_small_square: |  |  |
 | `12345678901234567890` |  | `123456789012345678901234567890` |
-
+Dordogne - Production Systems
+Tarn - Common Sub-Assemblies
 
 
