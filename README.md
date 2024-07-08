@@ -50,6 +50,7 @@
 | :black_small_square: `Cantal-1.5` | _185mm payload enclosure and reference payload design_ |
 | :black_small_square: `Cantal-1.6` | _185mm payload enclosure and reference payload design_ |
 | :black_small_square: |  |  |
+| :arrow_right: **`PROJECT DORDOGNE`** | **Common Sub-Assemblies and Parts** to other projects. | [`Dordogne`](https://github.com/cpknight/Dordogne) |
 | :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**: | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
 | :black_small_square: `Garonne-0.1` | _ISRbot platform designs._ | |
 | :black_small_square: `Garonne-0.5` | _ISRbot exploitation software demonstrator I._ | |
@@ -69,16 +70,13 @@
 | :black_small_square: `Sarthe-NN0F` | Recognition/detection of "built" infrastructure in wilderness locations (Oblique EO/rgb 10cm to 50cm GSD). | [`PAR-Aero-Sarthe-PAR-0F`](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0F) |
 | :black_small_square: `Sarthe-NN10` | Recognition/detection of built aircraft landing sites (Vertical EO/rgb 10cm to 50cm GSD). | [`PAR-Sarthe-NN10`](https://github.com/cpknight/PAR-Sarthe-NN10) |
 | :black_small_square: |  |  |
+| :arrow_right: **`PROJECT TARN`** | **Small Scale Manufacturing**: Production Systems and Logistics. | [`Dordogne`](https://github.com/cpknight/Dordogne) |
 | :arrow_right: **`PROJECT VOSGES`** | **Paro MVP Payload Devices**: | [`PAR-Aero-Vosges`](https://github.com/cpknight/PAR-Aero-Vosges) |
 | :black_small_square: `Vosges-Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [`PARO-Vosges-Mainboard`](https://github.com/cpknight/PARO-Vosges-Mainboard) |
 | :black_small_square: `Vosges-Case` | Case 3D Design. | [`PARO-Vosges-Case`](https://github.com/cpknight/PARO-Vosges-Case) |
-| :black_small_square: `Vosges-Logistics` | Packaging and Logistics. | [`PARO-Vosges-Logistics`](https://github.com/cpknight/PARO-Vosges-Logistics) |
 | :black_small_square: `Paro` | End-User Documentation. | [`Paro`](https://github.com/cpknight/Paro) |
 | :black_small_square: |  |  |
 | :arrow_right: **`PROJECT YONNE`** | **GNSS Clock Devices** | [`cpknight/Yonne`](https://github.com/cpknight/Yonne) |
 | :black_small_square: |  |  |
 | `12345678901234567890` |  | `123456789012345678901234567890` |
-Dordogne - Production Systems
-Tarn - Common Sub-Assemblies
-
 
