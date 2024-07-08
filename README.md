@@ -70,7 +70,7 @@
 | :black_small_square: `Sarthe-NN0F` | Recognition/detection of "built" infrastructure in wilderness locations (Oblique EO/rgb 10cm to 50cm GSD). | [`PAR-Aero-Sarthe-PAR-0F`](https://github.com/cpknight/PAR-Aero-Sarthe-PAR-0F) |
 | :black_small_square: `Sarthe-NN10` | Recognition/detection of built aircraft landing sites (Vertical EO/rgb 10cm to 50cm GSD). | [`PAR-Sarthe-NN10`](https://github.com/cpknight/PAR-Sarthe-NN10) |
 | :black_small_square: |  |  |
-| :arrow_right: **`PROJECT TARN`** | **Small Scale Manufacturing**: Production Systems and Logistics. | [`Dordogne`](https://github.com/cpknight/Dordogne) |
+| :arrow_right: **`PROJECT TARN`** | **Small Scale Manufacturing**: Production Systems and Logistics. | [`Tarn`](https://github.com/cpknight/Tarn) |
 | :arrow_right: **`PROJECT VOSGES`** | **Paro MVP Payload Devices**: | [`PAR-Aero-Vosges`](https://github.com/cpknight/PAR-Aero-Vosges) |
 | :black_small_square: `Vosges-Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [`PARO-Vosges-Mainboard`](https://github.com/cpknight/PARO-Vosges-Mainboard) |
 | :black_small_square: `Vosges-Case` | Case 3D Design. | [`PARO-Vosges-Case`](https://github.com/cpknight/PARO-Vosges-Case) |
