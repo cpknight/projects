@@ -12,15 +12,15 @@
   
 | PROJECT      | SUMMARY                                                         | REPO                                                                |
 | :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ |
-| :arrow_right: **`PROJECT AIN`** | **Freefall/parachute data capture devices (500g)**: | [`PAR-Aero-Ain`](https://github.com/cpknight/PAR-Aero-Ain) |
-| :arrow_right: **`PROJECT ALPES`**  | **Freefall data capture devices (100g)**: | [`PAR-Aero-Alpes`](https://github.com/cpknight/PAR-Aero-Alpes) |
-| :arrow_right: **`PROJECT AUBE`** | **Freefall/parachute aerial recce payload devices (500g)**: | [`PAR-Aero-Aube`](https://github.com/cpknight/PAR-Aero-Aube) |
-| :arrow_right: **`PROJECT AVEYRON`** | **Flying wing autonomous aerial vehicles.**: | [`PAR-Aero-Aveyron`](https://github.com/cpknight/PAR-Aero-Aveyron) |
-| :arrow_right: **`PROJECT BEAUFORT`** | **Small parachutes and deployment devices**: | [`PAR-Aero-Beaufort`](https://github.com/cpknight/PAR-Aero-Beaufort)  |
-| :arrow_right: **`PROJECT CANTAL`** | **Cylindrical freefall devices; integrated parachutes/payloads (250g)**: | [`PAR-Aero-Cantal`](https://github.com/cpknight/PAR-Aero-Cantal) |
+| :arrow_right: **`PROJECT AIN`** | **Freefall/parachute data capture devices**. | [`PAR-Aero-Ain`](https://github.com/cpknight/PAR-Aero-Ain) |
+| :arrow_right: **`PROJECT ALPES`**  | **Freefall data capture devices**. | [`PAR-Aero-Alpes`](https://github.com/cpknight/PAR-Aero-Alpes) |
+| :arrow_right: **`PROJECT AUBE`** | **Freefall/parachute aerial recce payload devices**. | [`PAR-Aero-Aube`](https://github.com/cpknight/PAR-Aero-Aube) |
+| :arrow_right: **`PROJECT AVEYRON`** | **Flying wing autonomous aerial vehicles**. | [`PAR-Aero-Aveyron`](https://github.com/cpknight/PAR-Aero-Aveyron) |
+| :arrow_right: **`PROJECT BEAUFORT`** | **Small parachutes and deployment devices**. | [`PAR-Aero-Beaufort`](https://github.com/cpknight/PAR-Aero-Beaufort)  |
+| :arrow_right: **`PROJECT CANTAL`** | **Cylindrical freefall devices; integrated parachutes/payloads**. | [`PAR-Aero-Cantal`](https://github.com/cpknight/PAR-Aero-Cantal) |
 | :arrow_right: **`PROJECT DORDOGNE`** | **Common Sub-Assemblies and Parts** to other projects. | [`Dordogne`](https://github.com/cpknight/Dordogne) |
-| :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**: | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
-| :arrow_right: **`PROJECT SARTHE`** | **Aerial Recce Convolutional Neural Networks (CNNs)**: | [`PAR-Aero-Sarthe`](https://github.com/cpknight/PAR-Aero-Sarthe) |
+| :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**. | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
+| :arrow_right: **`PROJECT SARTHE`** | **Aerial Recce Convolutional Neural Networks**. | [`PAR-Aero-Sarthe`](https://github.com/cpknight/PAR-Aero-Sarthe) |
 | :arrow_right: **`PROJECT TARN`** | **Small Scale Manufacturing**: Production Systems and Logistics. | [`Tarn`](https://github.com/cpknight/Tarn) |
 | :arrow_right: **`PROJECT VOSGES`** | **Paro MVP Payload Devices**: | [`PAR-Aero-Vosges`](https://github.com/cpknight/PAR-Aero-Vosges) |
 | :black_small_square: `Vosges-Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [`PARO-Vosges-Mainboard`](https://github.com/cpknight/PARO-Vosges-Mainboard) |
@@ -28,7 +28,7 @@
 | :black_small_square: `Paro` | End-User Documentation. | [`Paro`](https://github.com/cpknight/Paro) |
 | :black_small_square: |  |  |
 | :arrow_right: **`PROJECT YONNE`** | **GNSS Clock Devices** | [`Yonne`](https://github.com/cpknight/Yonne) |
-| `12345678901234567890` |  | `123456789012345678901234567890` |
+| `12345678901234567890` |  | `1234567890123456789012345` |
 
 <!-- OLD INDEX:
 
