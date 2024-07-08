@@ -76,7 +76,7 @@
 | :black_small_square: `Vosges-Case` | Case 3D Design. | [`PARO-Vosges-Case`](https://github.com/cpknight/PARO-Vosges-Case) |
 | :black_small_square: `Paro` | End-User Documentation. | [`Paro`](https://github.com/cpknight/Paro) |
 | :black_small_square: |  |  |
-| :arrow_right: **`PROJECT YONNE`** | **GNSS Clock Devices** | [`cpknight/Yonne`](https://github.com/cpknight/Yonne) |
+| :arrow_right: **`PROJECT YONNE`** | **GNSS Clock Devices** | [`Yonne`](https://github.com/cpknight/Yonne) |
 | :black_small_square: |  |  |
 | `12345678901234567890` |  | `123456789012345678901234567890` |
 
