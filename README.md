@@ -22,9 +22,9 @@
 | :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**. | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
 | :arrow_right: **`PROJECT SARTHE`** | **Aerial Recce Convolutional Neural Networks**. | [`PAR-Aero-Sarthe`](https://github.com/cpknight/PAR-Aero-Sarthe) |
 | :arrow_right: **`PROJECT TARN`** | **Small Scale Manufacturing**: Production Systems and Logistics. | [`Tarn`](https://github.com/cpknight/Tarn) |
-| :arrow_right: **`PROJECT VOSGES`** | **Paro MVP Payload Devices**: | [`PAR-Aero-Vosges`](https://github.com/cpknight/PAR-Aero-Vosges) |
-| :black_small_square: `Vosges-Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [`PARO-Vosges-Mainboard`](https://github.com/cpknight/PARO-Vosges-Mainboard) |
-| :black_small_square: `Vosges-Case` | Case 3D Design. | [`PARO-Vosges-Case`](https://github.com/cpknight/PARO-Vosges-Case) |
+| :arrow_right: **`PROJECT VOSGES`** | **Paro MVP Payload Devices**: | [`Vosges`](https://github.com/cpknight/Vosges) |
+| :black_small_square: `Vosges-Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard) |
+| :black_small_square: `Vosges-Enclosure` | Case 3D Design. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) |
 | :black_small_square: `Paro` | End-User Documentation. | [`Paro`](https://github.com/cpknight/Paro) |
 | :arrow_right: **`PROJECT YONNE`** | **GNSS Clock Devices** | [`Yonne`](https://github.com/cpknight/Yonne) |
 | `12345678901234567890` |  | `1234567890123456789012345` |
