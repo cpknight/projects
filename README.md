@@ -1,4 +1,4 @@
-## Device Design and Prototype Projects
+## Device Design and Development Projects
  
 :information_source: This is the master index for my device design projects; the below table is a summary of each sub-project/version/revision: 
 
