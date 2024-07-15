@@ -5,14 +5,14 @@
 | :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ | :----: |
 | :arrow_right: **`AIN`** | **Freefall/parachute data capture**. | [`Ain`](https://github.com/cpknight/Ain) | |
 | :arrow_right: **`ALPES`**  | **Freefall data capture**. | [`Alpes`](https://github.com/cpknight/Alpes) | |
-| :arrow_right: **`AUBE`** | **Freefall/parachute devices**. | [`Aube`](https://github.com/cpknight/Aube) | |
+| :arrow_right: **`AUBE`** | **Freefall/parachute** devices. | [`Aube`](https://github.com/cpknight/Aube) | |
 | :arrow_right: **`VEYRON`** | **Remote aerial vehicles**. | [`Aveyron`](https://github.com/cpknight/Aveyron) | |
 | :arrow_right: **`BEAUFORT`** | **Small parachutes**. | [`Beaufort`](https://github.com/cpknight/Beaufort)  | |
 | :arrow_right: **`CANTAL`** | **Cylindrical freefall** devices. | `Cantal` | :white_check_mark: |
 | :arrow_right: **`DORDOGNE`** | **Common parts/subassemblies**. | [`Dordogne`](https://github.com/cpknight/Dordogne) | :white_check_mark: |
 | :arrow_right: **`GARONNE`** | **Aerial imagery exploitation**. | `Garonne` | |
 | :arrow_right: **`SARTHE`** | **Aerial recce neural networks**. | `Sarthe` | |
-| :arrow_right: **`TARN`** | **Small-scale manufacturing** (meta). | [`Tarn`](https://github.com/cpknight/Tarn) | :white_check_mark: |
+| :arrow_right: **`TARN`** | **Small-scale manufacturing** (meta. | [`Tarn`](https://github.com/cpknight/Tarn) | :white_check_mark: |
 | :arrow_right: **`VOSGES`** | **Paro devices**: | [`Vosges`](https://github.com/cpknight/Vosges) | :white_check_mark: |
 | | _Base mainboard PCB/firmware_. | [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard) | :white_check_mark: |
 | | _Enclosure 3D design_. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) | :white_check_mark: |
