@@ -18,15 +18,15 @@
 | :arrow_right: **`VEYRON`** | **Aerial vehicles**. | [`PAR-Aero-Aveyron`](https://github.com/cpknight/PAR-Aero-Aveyron) |
 | :arrow_right: **`BEAUFORT`** | **Small parachutes**. | [`PAR-Aero-Beaufort`](https://github.com/cpknight/PAR-Aero-Beaufort)  |
 | :arrow_right: **`CANTAL`** | **Cylindrical freefall devices, parachutes/payloads**. | [`PAR-Aero-Cantal`](https://github.com/cpknight/PAR-Aero-Cantal) |
-| :arrow_right: **`DORDOGNE`** | **Common Sub-Assemblies/Parts** to other projects. | [`Dordogne`](https://github.com/cpknight/Dordogne) |
-| :arrow_right: **`GARONNE`** | **ISRbot Platform**. | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
-| :arrow_right: **`SARTHE`** | **Aerial Recce Neural Networks**. | [`PAR-Aero-Sarthe`](https://github.com/cpknight/PAR-Aero-Sarthe) |
-| :arrow_right: **`TARN`** | **Small-Scale Manufacturing**: Production Systems and Logistics. | [`Tarn`](https://github.com/cpknight/Tarn) |
+| :arrow_right: **`DORDOGNE`** | **Common parts/subassemblies** to other projects. | [`Dordogne`](https://github.com/cpknight/Dordogne) |
+| :arrow_right: **`GARONNE`** | **Aerial imagery exploitation**. | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
+| :arrow_right: **`SARTHE`** | **Aerial recce neural networks**. | [`PAR-Aero-Sarthe`](https://github.com/cpknight/PAR-Aero-Sarthe) |
+| :arrow_right: **`TARN`** | **Small-scale manufacturing** (meta). | [`Tarn`](https://github.com/cpknight/Tarn) |
 | :arrow_right: **`VOSGES`** | **PARO Devices**: | [`Vosges`](https://github.com/cpknight/Vosges) |
-| :black_small_square: `Vosges-Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard) |
-| :black_small_square: `Vosges-Enclosure` | Case 3D Design. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) |
-| :black_small_square: `Paro` | End-User Documentation. | [`Paro`](https://github.com/cpknight/Paro) |
-| :arrow_right: **`YONNE`** | **GNSS Clock Devices** | [`Yonne`](https://github.com/cpknight/Yonne) |
+| :black_small_square: `Vosges-Mainboard` | _Base mainboard PCB/firmware_. | [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard) |
+| :black_small_square: `Vosges-Enclosure` | _Case 3D Design_. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) |
+| :black_small_square: `Paro` | _End-User Documentation_. | [`Paro`](https://github.com/cpknight/Paro) |
+| :arrow_right: **`YONNE`** | **Digital clock devices**. | [`Yonne`](https://github.com/cpknight/Yonne) |
 | `12345678901234567890` |  | `1234567890123456789012345` |
 
 <!-- OLD INDEX:
