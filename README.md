@@ -17,7 +17,6 @@
 | :black_small_square: `Vosges-Enclosure` | _Enclosure 3D design_. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) | :white_check_mark: |
 | :black_small_square: `Paro` | _End-user documentation_. | [`Paro`](https://github.com/cpknight/Paro) | :white_check_mark: |
 | :arrow_right: **`YONNE`** | **Digital clock devices**. | [`Yonne`](https://github.com/cpknight/Yonne) | :white_check_mark: |
-| `12345678901234567890` |  | `12345678901234567890` |
 
 
 :information_source: This is the master index for my device design projects; the above table is a summary of each sub-project/version/revision.
