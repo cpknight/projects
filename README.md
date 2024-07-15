@@ -24,8 +24,8 @@
 | :arrow_right: **`TARN`** | **Small-scale manufacturing** (meta). | [`Tarn`](https://github.com/cpknight/Tarn) |
 | :arrow_right: **`VOSGES`** | **PARO Devices**: | [`Vosges`](https://github.com/cpknight/Vosges) |
 | :black_small_square: `Vosges-Mainboard` | _Base mainboard PCB/firmware_. | [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard) |
-| :black_small_square: `Vosges-Enclosure` | _Case 3D Design_. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) |
-| :black_small_square: `Paro` | _End-User Documentation_. | [`Paro`](https://github.com/cpknight/Paro) |
+| :black_small_square: `Vosges-Enclosure` | Enclosure 3D design_. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) |
+| :black_small_square: `Paro` | _End-user documentation_. | [`Paro`](https://github.com/cpknight/Paro) |
 | :arrow_right: **`YONNE`** | **Digital clock devices**. | [`Yonne`](https://github.com/cpknight/Yonne) |
 | `12345678901234567890` |  | `1234567890123456789012345` |
 
