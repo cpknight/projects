@@ -15,9 +15,9 @@
 | :arrow_right: **`AIN`** | **Freefall/parachute data capture**. | [`PAR-Aero-Ain`](https://github.com/cpknight/PAR-Aero-Ain) |
 | :arrow_right: **`ALPES`**  | **Freefall data capture**. | [`PAR-Aero-Alpes`](https://github.com/cpknight/PAR-Aero-Alpes) |
 | :arrow_right: **`AUBE`** | **Freefall/parachute devices**. | [`PAR-Aero-Aube`](https://github.com/cpknight/PAR-Aero-Aube) |
-| :arrow_right: **`VEYRON`** | **Aerial vehicles**. | [`PAR-Aero-Aveyron`](https://github.com/cpknight/PAR-Aero-Aveyron) |
+| :arrow_right: **`VEYRON`** | **Remote aerial vehicles**. | [`PAR-Aero-Aveyron`](https://github.com/cpknight/PAR-Aero-Aveyron) |
 | :arrow_right: **`BEAUFORT`** | **Small parachutes**. | [`PAR-Aero-Beaufort`](https://github.com/cpknight/PAR-Aero-Beaufort)  |
-| :arrow_right: **`CANTAL`** | **Cylindrical freefall devices, parachutes/payloads**. | [`PAR-Aero-Cantal`](https://github.com/cpknight/PAR-Aero-Cantal) |
+| :arrow_right: **`CANTAL`** | **Cylindrical freefall** devices/parachutes/payloads. | [`PAR-Aero-Cantal`](https://github.com/cpknight/PAR-Aero-Cantal) |
 | :arrow_right: **`DORDOGNE`** | **Common parts/subassemblies** to other projects. | [`Dordogne`](https://github.com/cpknight/Dordogne) |
 | :arrow_right: **`GARONNE`** | **Aerial imagery exploitation**. | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
 | :arrow_right: **`SARTHE`** | **Aerial recce neural networks**. | [`PAR-Aero-Sarthe`](https://github.com/cpknight/PAR-Aero-Sarthe) |
