@@ -1,4 +1,5 @@
 ## Device Design and Development Projects
+:information_source: This is the master index for my device design projects and, where applicable, corresponding Github repos.
   
 | Project      | Summary                                                         | Github Repo                                                         | :clock10: |
 | :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ | :----: |
@@ -18,8 +19,6 @@
 | :black_small_square: `Paro` | _End-user documentation_. | [`Paro`](https://github.com/cpknight/Paro) | :white_check_mark: |
 | :arrow_right: **`YONNE`** | **Digital clock devices**. | [`Yonne`](https://github.com/cpknight/Yonne) | :white_check_mark: |
 
-
-:information_source: This is the master index for my device design projects; the above table is a summary of each sub-project/version/revision.
 - Each project will correspond to a Github repository, while each sub-project will correspond to _either_ (i) a top-level directory in those repositories, _or_ (ii) a separate repository for the sub-project. 
 - Projects are named after départements of France, and may correspond to any aspect of device design and prototyping component or development stage, eg: airframes, parachutes, hardware, software, or tactics.
 - See the [`Tarn`](https://github.com/cpknight/Tarn) project for small-scale production (manufacturing) of some of these projects. 
