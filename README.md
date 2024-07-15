@@ -10,7 +10,7 @@
 
 - If you need access, contact [`@cpknight`](https://github.com/cpknight) with your Github username for access to the repository that you're working on – many of these repositories make use of [`Git Large File Storage`](https://git-lfs.github.com/), so please also enable that extension on your system. 
   
-| Project      | Summary                                                         | Github Repo                                                         | Active |
+| Project      | Summary                                                         | Github Repo                                                         | :clock10: |
 | :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ | :----: |
 | :arrow_right: **`AIN`** | **Freefall/parachute data capture**. | [`PAR-Aero-Ain`](https://github.com/cpknight/PAR-Aero-Ain) | |
 | :arrow_right: **`ALPES`**  | **Freefall data capture**. | [`PAR-Aero-Alpes`](https://github.com/cpknight/PAR-Aero-Alpes) | |
@@ -27,7 +27,7 @@
 | :black_small_square: `Vosges-Enclosure` | Enclosure 3D design_. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) | :white_check_mark: |
 | :black_small_square: `Paro` | _End-user documentation_. | [`Paro`](https://github.com/cpknight/Paro) | :white_check_mark: |
 | :arrow_right: **`YONNE`** | **Digital clock devices**. | [`Yonne`](https://github.com/cpknight/Yonne) | :white_check_mark: |
-| `12345678901234567890` |  | `1234567890123456789012345` |
+| `12345678901234567890` |  | `12345678901234567890` |
 
 <!-- OLD INDEX:
 
