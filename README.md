@@ -12,21 +12,21 @@
   
 | PROJECT      | SUMMARY                                                         | REPO                                                                |
 | :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ |
-| :arrow_right: **`PROJECT AIN`** | **Freefall/parachute data capture devices**. | [`PAR-Aero-Ain`](https://github.com/cpknight/PAR-Aero-Ain) |
-| :arrow_right: **`PROJECT ALPES`**  | **Freefall data capture devices**. | [`PAR-Aero-Alpes`](https://github.com/cpknight/PAR-Aero-Alpes) |
-| :arrow_right: **`PROJECT AUBE`** | **Freefall/parachute aerial recce payload devices**. | [`PAR-Aero-Aube`](https://github.com/cpknight/PAR-Aero-Aube) |
-| :arrow_right: **`PROJECT AVEYRON`** | **Flying wing autonomous aerial vehicles**. | [`PAR-Aero-Aveyron`](https://github.com/cpknight/PAR-Aero-Aveyron) |
-| :arrow_right: **`PROJECT BEAUFORT`** | **Small parachutes and deployment devices**. | [`PAR-Aero-Beaufort`](https://github.com/cpknight/PAR-Aero-Beaufort)  |
-| :arrow_right: **`PROJECT CANTAL`** | **Cylindrical freefall devices; integrated parachutes/payloads**. | [`PAR-Aero-Cantal`](https://github.com/cpknight/PAR-Aero-Cantal) |
-| :arrow_right: **`PROJECT DORDOGNE`** | **Common Sub-Assemblies and Parts** to other projects. | [`Dordogne`](https://github.com/cpknight/Dordogne) |
-| :arrow_right: **`PROJECT GARONNE`** | **ISRbot autonomous aerial imagery exploitation platform**. | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
-| :arrow_right: **`PROJECT SARTHE`** | **Aerial Recce Convolutional Neural Networks**. | [`PAR-Aero-Sarthe`](https://github.com/cpknight/PAR-Aero-Sarthe) |
-| :arrow_right: **`PROJECT TARN`** | **Small Scale Manufacturing**: Production Systems and Logistics. | [`Tarn`](https://github.com/cpknight/Tarn) |
-| :arrow_right: **`PROJECT VOSGES`** | **Paro MVP Payload Devices**: | [`Vosges`](https://github.com/cpknight/Vosges) |
+| :arrow_right: **`AIN`** | **Freefall/parachute data capture**. | [`PAR-Aero-Ain`](https://github.com/cpknight/PAR-Aero-Ain) |
+| :arrow_right: **`ALPES`**  | **Freefall data capture**. | [`PAR-Aero-Alpes`](https://github.com/cpknight/PAR-Aero-Alpes) |
+| :arrow_right: **`AUBE`** | **Freefall/parachute devices**. | [`PAR-Aero-Aube`](https://github.com/cpknight/PAR-Aero-Aube) |
+| :arrow_right: **`VEYRON`** | **Aerial vehicles**. | [`PAR-Aero-Aveyron`](https://github.com/cpknight/PAR-Aero-Aveyron) |
+| :arrow_right: **`BEAUFORT`** | **Small parachutes**. | [`PAR-Aero-Beaufort`](https://github.com/cpknight/PAR-Aero-Beaufort)  |
+| :arrow_right: **`CANTAL`** | **Cylindrical freefall devices, parachutes/payloads**. | [`PAR-Aero-Cantal`](https://github.com/cpknight/PAR-Aero-Cantal) |
+| :arrow_right: **`DORDOGNE`** | **Common Sub-Assemblies/Parts** to other projects. | [`Dordogne`](https://github.com/cpknight/Dordogne) |
+| :arrow_right: **`GARONNE`** | **ISRbot Platform**. | [`PAR-Aero-Garonne`](https://github.com/cpknight/PAR-AERO-Garonne) |
+| :arrow_right: **`SARTHE`** | **Aerial Recce Neural Networks**. | [`PAR-Aero-Sarthe`](https://github.com/cpknight/PAR-Aero-Sarthe) |
+| :arrow_right: **`TARN`** | **Small-Scale Manufacturing**: Production Systems and Logistics. | [`Tarn`](https://github.com/cpknight/Tarn) |
+| :arrow_right: **`VOSGES`** | **PARO Devices**: | [`Vosges`](https://github.com/cpknight/Vosges) |
 | :black_small_square: `Vosges-Mainboard` | Base mainboard pcb and firmware with ESP32-CAM. | [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard) |
 | :black_small_square: `Vosges-Enclosure` | Case 3D Design. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) |
 | :black_small_square: `Paro` | End-User Documentation. | [`Paro`](https://github.com/cpknight/Paro) |
-| :arrow_right: **`PROJECT YONNE`** | **GNSS Clock Devices** | [`Yonne`](https://github.com/cpknight/Yonne) |
+| :arrow_right: **`YONNE`** | **GNSS Clock Devices** | [`Yonne`](https://github.com/cpknight/Yonne) |
 | `12345678901234567890` |  | `1234567890123456789012345` |
 
 <!-- OLD INDEX:
