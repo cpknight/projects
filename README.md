@@ -12,7 +12,7 @@
 | :arrow_right: **`DORDOGNE`** | **Common parts/subassemblies**. | [`Dordogne`](https://github.com/cpknight/Dordogne) | :white_check_mark: |
 | :arrow_right: **`GARONNE`** | **Aerial imagery exploitation**. | `Garonne` | |
 | :arrow_right: **`SARTHE`** | **Aerial recce neural networks**. | `Sarthe` | |
-| :arrow_right: **`TARN`** | **Small-scale manufacturing** (meta. | [`Tarn`](https://github.com/cpknight/Tarn) | :white_check_mark: |
+| :arrow_right: **`TARN`** | **Small-scale manufacturing**. | [`Tarn`](https://github.com/cpknight/Tarn) | :white_check_mark: |
 | :arrow_right: **`VOSGES`** | **Paro devices**: | [`Vosges`](https://github.com/cpknight/Vosges) | :white_check_mark: |
 | | _Base mainboard PCB/firmware_. | [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard) | :white_check_mark: |
 | | _Enclosure 3D design_. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) | :white_check_mark: |
