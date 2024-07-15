@@ -11,7 +11,7 @@
 - If you need access, contact [`@cpknight`](https://github.com/cpknight) with your Github username for access to the repository that you're working on – many of these repositories make use of [`Git Large File Storage`](https://git-lfs.github.com/), so please also enable that extension on your system. 
   
 | Project      | Summary                                                         | Github Repo                                                         | Active |
-| :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ | ------ |
+| :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ | :----: |
 | :arrow_right: **`AIN`** | **Freefall/parachute data capture**. | [`PAR-Aero-Ain`](https://github.com/cpknight/PAR-Aero-Ain) | |
 | :arrow_right: **`ALPES`**  | **Freefall data capture**. | [`PAR-Aero-Alpes`](https://github.com/cpknight/PAR-Aero-Alpes) | |
 | :arrow_right: **`AUBE`** | **Freefall/parachute devices**. | [`PAR-Aero-Aube`](https://github.com/cpknight/PAR-Aero-Aube) | |
