@@ -14,9 +14,9 @@
 | :arrow_right: **`SARTHE`** | **Aerial recce neural networks**. | `Sarthe` | |
 | :arrow_right: **`TARN`** | **Small-scale manufacturing**. | [`Tarn`](https://github.com/cpknight/Tarn) | :white_check_mark: |
 | :arrow_right: **`VOSGES`** | **Paro devices**: | [`Vosges`](https://github.com/cpknight/Vosges) | :white_check_mark: |
-| | :black_circle: _Base mainboard PCB/firmware_. | [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard) | :white_check_mark: |
-| | :black_circle: _Enclosure 3D design_. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) | :white_check_mark: |
-| | :black_circle: _End-user documentation_. | [`Paro`](https://github.com/cpknight/Paro) | :white_check_mark: |
+| | :arrow_right_hook: _Base mainboard PCB/firmware_. | [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard) | :white_check_mark: |
+| | :arrow_right_hook: _Enclosure 3D design_. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) | :white_check_mark: |
+| | :arrow_right_hook: _End-user documentation_. | [`Paro`](https://github.com/cpknight/Paro) | :white_check_mark: |
 | :arrow_right: **`YONNE`** | **Digital clock devices**. | [`Yonne`](https://github.com/cpknight/Yonne) | :white_check_mark: |
 
 - Each project will correspond to a Github repository, while each sub-project will correspond to _either_ (i) a top-level directory in those repositories, _or_ (ii) a separate repository for the sub-project. 
