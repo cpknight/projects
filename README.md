@@ -8,7 +8,7 @@
 | :arrow_right: **`AUBE`** | **Freefall/parachute** devices. | [`Aube`](https://github.com/cpknight/Aube) | |
 | :arrow_right: **`VEYRON`** | **Remote aerial vehicles**. | [`Aveyron`](https://github.com/cpknight/Aveyron) | |
 | :arrow_right: **`BEAUFORT`** | **Small parachutes**. | [`Beaufort`](https://github.com/cpknight/Beaufort)  | |
-| :arrow_right: **`CANTAL`** | **Cylindrical freefall** devices. | `Cantal` | :white_check_mark: |
+| :arrow_right: **`CANTAL`** | **Cylindrical freefall** devices. | [`Cantal`](https://github.com/cpknight/Cantal) | :white_check_mark: |
 | :arrow_right: **`DORDOGNE`** | **Common parts/sub-assemblies**. | [`Dordogne`](https://github.com/cpknight/Dordogne) | :white_check_mark: |
 | :arrow_right: **`GARONNE`** | **Aerial imagery exploitation**. | `Garonne` | |
 | :arrow_right: **`SARTHE`** | **Aerial recce neural networks**. | `Sarthe` | |
