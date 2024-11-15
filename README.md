@@ -10,6 +10,7 @@
 | :arrow_right: **`BEAUFORT`** | **Small parachutes**. | [`Beaufort`](https://github.com/cpknight/Beaufort)  | |
 | :arrow_right: **`CANTAL`** | **Cylindrical freefall** devices. | [`Cantal`](https://github.com/cpknight/Cantal) | :white_check_mark: |
 | :arrow_right: **`DORDOGNE`** | **Common parts/sub-assemblies**. | [`Dordogne`](https://github.com/cpknight/Dordogne) | :white_check_mark: |
+| :arrow_right: **`EURE`** | **Single-board sensors (hw/fw)**. | [`Eure`](https://github.com/cpknight/Eure) | :white_check_mark: |
 | :arrow_right: **`GARONNE`** | **Aerial imagery exploitation**. | `Garonne` | |
 | :arrow_right: **`SARTHE`** | **Aerial recce neural networks**. | `Sarthe` | |
 | :arrow_right: **`TARN`** | **Small-scale manufacturing**. | [`Tarn`](https://github.com/cpknight/Tarn) | :white_check_mark: |
