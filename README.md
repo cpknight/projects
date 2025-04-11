@@ -4,7 +4,7 @@
 
 ## Device Design and Development Projects
 
-:information_source: This repo contains an index of projects (and their repos) related to the reconnaissance devices that I'm working on, as well as a second table listing miscellaneous projects. Projects with open source content are indicated with a ':unlock:' emoji - for access to :lock:'d project materials, or for any other reason, please [contact me](mailto:chris@cpknight.io).  
+:information_source: This repo contains an index of projects (and their repos) related to the reconnaissance devices that I'm working on, as well as a second table listing miscellaneous projects. Projects with open source content are indicated with a ':unlock:' emoji - for access to :lock:'d project materials, or for any other reason, please :envelope: [contact me](mailto:chris@cpknight.io).  
   
 | Category                | Project/Repo                                                  | Description                            | Activty          |    
 | :---------------------- | :------------------------------------------------------------ | :------------------------------------- | :--------------: | 
