@@ -1,4 +1,4 @@
-[:octocat:](https://github.com) ▶ [`cpknight`](https://github.com/cpknight) ▶ [`projects`](/)
+[:octocat:](https://github.com) / [`cpknight`](https://github.com/cpknight) / [`projects`](/)
 
 ## Projects
 
