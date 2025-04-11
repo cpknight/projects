@@ -25,7 +25,7 @@
 | Production/Design       | :lock: [`Vosges-Firmware-Paro`](https://github.com/cpknight/Vosges-Firmware-Paro)         | "Paro" Gen1 firmware (`PlatformIO`). | :green_circle:   |
 | Production/Design       | :lock: [`Vosges-Firmware-Paro-G2`](https://github.com/cpknight/Vosges-Firmware-Paro-G2)   | "Paro" Gen2 firmware (`ESP-IDF`).    | :green_circle:   |
 | Production/Design       | :lock: `Vosges-Management`                                                                | "Paro" CLI, web, and admin control.<sup>1</sup> | :green_circle: |
-
+| Production/Design       | :lock: [**`Yonne`**](https://github.com/cpknight/Yonne)                                   | Digital satellite/network clocks.    | :green_circle:   |
 
 Notes:
 1. Includes: `aws-iot-test`, [`Website-Reconnaissance-Services`](https://github.com/cpknight/Website-Reconnaissance-Services), and [`Paro`](https://github.com/cpknight/Paro) (user documentation).
@@ -35,10 +35,6 @@ Notes:
 
 | Project         | Summary                                                         | Github Repo                                                         | :clock10: |
 | :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ | :----: |
-| :arrow_right: **`VOSGES`** | **Paro devices**: |  | :white_check_mark: |
-| | :arrow_lower_right: _Base mainboard PCB/firmware_. |  | :white_check_mark: |
-| | :arrow_lower_right: _End-user documentation_. | [`Paro`](https://github.com/cpknight/Paro) | :white_check_mark: |
-| :arrow_right: **`YONNE`** | **Digital clock devices**. | [`Yonne`](https://github.com/cpknight/Yonne) | :white_check_mark: |
 
 - Each project will correspond to a Github repository, while each sub-project will correspond to _either_ (i) a top-level directory in those repositories, _or_ (ii) a separate repository for the sub-project. 
 - Projects are named after départements of France, and may correspond to any aspect of device design and prototyping component or development stage, eg: airframes, parachutes, hardware, software, or tactics.
