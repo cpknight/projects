@@ -1,10 +1,10 @@
 ## Device Design and Development Projects
 :information_source: This is the master index for my device design projects and, where applicable, corresponding Github repos.
   
-| Category                | Project/Repo                                                  | Activty           | Description                        |
-| :---------------------- | :------------------------------------------------------------ | :---------------: | :--------------------------------- |
-| Research/Prototypes     | :lock: [**`Ain`**](https://github.com/cpknight/Ain)           | :red_circle:      | Freefall/parachute data capture.   |
-| Research/Prototypes     | :lock: [**`Alpes`**](https://github.com/cpknight/Alpes)       | :yellow_circle:   | Freefall data capture.             | 
+| Category                | Project/Repo                                                  | Description                            | Activty          |    
+| :---------------------- | :------------------------------------------------------------ | :------------------------------------- | :--------------: | 
+| Research/Prototypes     | :lock: [**`Ain`**](https://github.com/cpknight/Ain)           | Freefall/parachute data capture.       | :red_circle:     | 
+| Research/Prototypes     | :lock: [**`Alpes`**](https://github.com/cpknight/Alpes)       | Freefall data capture experiments.     | :yellow_circle:  |  
 
 
 
