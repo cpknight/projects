@@ -19,7 +19,7 @@
 | Production/Design       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                         | Small batch device production system.| :orange_circle:  |
 | Production/Design       | :lock: [**`Dordogne`**](https://github.com/cpknight/Dordogne)                 | Common parts/sub-assemblies.         | :green_circle:   |
 | Production/Design       | :lock: [**`Vosges`**](https://github.com/cpknight/Vosges)                     | "Paro" device design and production. | :green_circle:   |
-| Production/Design       | :lock: [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure)     | "Paro" Cantal-compatable enclosure.  | :green_circle:   |
+| Production/Design       | &middot; :lock: [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure)     | "Paro" Cantal-compatable enclosure.  | :green_circle:   |
 | Production/Design       | :lock: [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard)     | "Paro" mainboard PCB and G0 firmware.| :green_circle:   |
 | Production/Design       | :lock: [`Vosges-Firmware-G1`](https://github.com/cpknight/Vosges-Firmware-G1) | "Paro" Gen1 firmware (`PlatformIO`). | :green_circle:   |
 | Production/Design       | :lock: [`Vosges-Firmware-G2`](https://github.com/cpknight/Vosges-Firmware-G2) | "Paro" Gen2 firmware (`ESP-IDF`).    | :green_circle:   |
