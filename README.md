@@ -3,8 +3,8 @@
   
 | Category                | Project/Repo                                                  | Activty           | Description                        |
 | :---------------------- | :------------------------------------------------------------ | :---------------: | :--------------------------------- |
-| Research/Prototypes     | :lock: [**`AIN`**](https://github.com/cpknight/Ain)           | :red_circle:      | Freefall/parachute data capture.   |
-| Research/Prototypes     | :lock: [**`ALPES`**](https://github.com/cpknight/Alpes)       | :yellow_circle:   | Freefall data capture.             | 
+| Research/Prototypes     | :lock: [**`Ain`**](https://github.com/cpknight/Ain)           | :red_circle:      | Freefall/parachute data capture.   |
+| Research/Prototypes     | :lock: [**`Alpes`**](https://github.com/cpknight/Alpes)       | :yellow_circle:   | Freefall data capture.             | 
 
 
 
