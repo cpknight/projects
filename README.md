@@ -28,7 +28,7 @@
 | Production/Design       | :lock: [**`Yonne`**](https://github.com/cpknight/Yonne)                       | Digital satellite/network clocks.    | :green_circle:   |
 
 _Notes_:
-1. Projects are named after départements of France, and may correspond to any aspect of device design and prototyping component or development stage, eg: airframes, parachutes, hardware, software, or tactics.
+1. Reconnaissance projects are named after départements of France, and may correspond to any aspect of device design and prototyping component or development stage, eg: airframes, parachutes, hardware, software, or tactics.
 2. The `Vosges-Management` sub-project is to be consolidated, and includes `aws-iot-test`, [`Website-Reconnaissance-Services`](https://github.com/cpknight/Website-Reconnaissance-Services), and [`Paro`](https://github.com/cpknight/Paro) (user documentation).
 3. If you need access to a :lock: repo, contact [`@cpknight`](https://github.com/cpknight) with your Github username for access to the repository that you're collaborating on.
 4. Many of these repositories make use of [`Git Large File Storage`](https://git-lfs.github.com/), so please also enable that extension on your system. 
