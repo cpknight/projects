@@ -1,10 +1,15 @@
 ## Device Design and Development Projects
 :information_source: This is the master index for my device design projects and, where applicable, corresponding Github repos.
   
-| Project      | Summary                                                         | Github Repo                                                         | :clock10: |
+| Category                | Project/Repo                                                  | Active            | Description                        |
+| :---------------------- | :------------------------------------------------------------ | :---------------: | :--------------------------------- |
+| Research/Prototyping    | :lock: [**`AIN`**](https://github.com/cpknight/Ain)           | :signal_strength: | Freefall/parachute data capture.   |
+| Research/Prototyping    | :lock: [**`ALPES`**](https://github.com/cpknight/Alpes)       | :stop_sign:       | Freefall data capture.             | 
+
+
+
+| Project         | Summary                                                         | Github Repo                                                         | :clock10: |
 | :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ | :----: |
-| :arrow_right: **`AIN`** | **Freefall/parachute data capture**. | [`Ain`](https://github.com/cpknight/Ain) | |
-| :arrow_right: **`ALPES`**  | **Freefall data capture**. | [`Alpes`](https://github.com/cpknight/Alpes) | |
 | :arrow_right: **`AUBE`** | **Freefall/parachute** devices. | [`Aube`](https://github.com/cpknight/Aube) | |
 | :arrow_right: **`VEYRON`** | **Remote aerial vehicles**. | [`Aveyron`](https://github.com/cpknight/Aveyron) | |
 | :arrow_right: **`BEAUFORT`** | **Small parachutes**. | [`Beaufort`](https://github.com/cpknight/Beaufort)  | |
