@@ -10,7 +10,7 @@
 | :---------------------- | :-----------------------------------------------------------------------------| :----------------------------------- | :--------------: | 
 | Research                | :lock: [**`Ain`**](https://github.com/cpknight/Ain)                           | Freefall/parachute data capture.     | :black_circle:   | 
 | Research                | :lock: **`Garonne`**                                                          | Aerial imagery exploitation methods. | :black_circle:   |  
-| Research                | :lock: [**`Aveyron`**](https://github.com/cpknight/Aveyron)                   | Small remote aerial vehicles.        | :orange_circle:  |
+| Research                | :lock: [**`Aveyron`**](https://github.com/cpknight/Aveyron)                   | Small remote aerial vehicles.        | :black_circle:   |
 | Research/Prototyping    | :lock: **`Sarthe`**                                                           | Aerial recce CNN design and training.| :black_circle:   |
 | Research/Prototyping    | :lock: [**`Alpes`**](https://github.com/cpknight/Alpes)                       | Freefall data capture experiments.   | :orange_circle:  |  
 | Research/Prototyping    | :lock: [**`Aube`**](https://github.com/cpknight/Aube)                         | Freefall/parachute devices.          | :orange_circle:  |
