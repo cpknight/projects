@@ -24,20 +24,14 @@
 | Production/Design       | :lock: [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard)     | "Paro" mainboard PCB and G0 firmware.| :green_circle:   |
 | Production/Design       | :lock: [`Vosges-Firmware-G1`](https://github.com/cpknight/Vosges-Firmware-G1) | "Paro" Gen1 firmware (`PlatformIO`). | :green_circle:   |
 | Production/Design       | :lock: [`Vosges-Firmware-G2`](https://github.com/cpknight/Vosges-Firmware-G2) | "Paro" Gen2 firmware (`ESP-IDF`).    | :green_circle:   |
-| Production/Design       | :lock: `Vosges-Management`                                                    | "Paro" CLI, web, and admin control.<sup>1</sup> | :green_circle: |
+| Production/Design       | :lock: `Vosges-Management`                                                    | "Paro" CLI, web, and admin control.<sup>2</sup> | :green_circle: |
 | Production/Design       | :lock: [**`Yonne`**](https://github.com/cpknight/Yonne)                       | Digital satellite/network clocks.    | :green_circle:   |
 
 _Notes_:
-1. Includes `aws-iot-test`, [`Website-Reconnaissance-Services`](https://github.com/cpknight/Website-Reconnaissance-Services), and [`Paro`](https://github.com/cpknight/Paro) (user documentation).
-2. Lorem.
-
-| Project         | Summary                                                         | Github Repo                                                         | :clock10: |
-| :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ | :----: |
-
-- Each project will correspond to a Github repository, while each sub-project will correspond to _either_ (i) a top-level directory in those repositories, _or_ (ii) a separate repository for the sub-project. 
-- Projects are named after départements of France, and may correspond to any aspect of device design and prototyping component or development stage, eg: airframes, parachutes, hardware, software, or tactics.
-- See the [`Tarn`](https://github.com/cpknight/Tarn) project for small-scale production (manufacturing) of some of these projects. 
-- If you need access, contact [`@cpknight`](https://github.com/cpknight) with your Github username for access to the repository that you're working on – many of these repositories make use of [`Git Large File Storage`](https://git-lfs.github.com/), so please also enable that extension on your system. 
+1. Projects are named after départements of France, and may correspond to any aspect of device design and prototyping component or development stage, eg: airframes, parachutes, hardware, software, or tactics.
+2. The `Vosges-Management` sub-project is to be consolidated, and includes `aws-iot-test`, [`Website-Reconnaissance-Services`](https://github.com/cpknight/Website-Reconnaissance-Services), and [`Paro`](https://github.com/cpknight/Paro) (user documentation).
+3. If you need access to a :lock: repo, contact [`@cpknight`](https://github.com/cpknight) with your Github username for access to the repository that you're collaborating on.
+4. Many of these repositories make use of [`Git Large File Storage`](https://git-lfs.github.com/), so please also enable that extension on your system. 
 
 <!-- OLD INDEX:
 
