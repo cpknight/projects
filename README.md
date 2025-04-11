@@ -2,10 +2,10 @@
 [ [:octocat:](https://github.com) &middot; [cpknight](https://github.com/cpknight) &middot; [projects](/) ]
 <!-- --------------------------------------------------------------------------------------- -->
 
-## Device Design and Development Projects
-
-:information_source: This repo contains an index of projects (and their repos) related to the reconnaissance devices that I'm working on, as well as a second table listing miscellaneous projects. Projects with open source content are indicated with a ':unlock:' emoji - for access to :lock:'d project materials, or for any other reason, please :envelope: [contact me](mailto:chris@cpknight.io).  
+:information_source: This repo is simply an index of projects (and their repos) related to the reconnaissance devices that I'm working on, as well as a second table listing miscellaneous projects. Projects with open source content are indicated with a ':unlock:' emoji - for access to :lock:'d project materials, or for any other reason, please :envelope: [contact me](mailto:chris@cpknight.io).  
   
+## Reconnaissance Device (Design and Development) Projects
+
 | Category                | Project/Repo                                                                  | Description                          | Activty          |    
 | :---------------------- | :-----------------------------------------------------------------------------| :----------------------------------- | :--------------: | 
 | Research                | :lock: [**`Ain`**](https://github.com/cpknight/Ain)                           | Freefall/parachute data capture.     | :black_circle:   | 
