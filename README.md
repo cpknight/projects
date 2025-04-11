@@ -108,7 +108,8 @@ _Notes_:
 ### Miscellaneous Projects
 
 | Category                | Project/Repo                                                                  | Description                          | Activty          |    
-| :---------------------- | :-----------------------------------------------------------------------------| :----------------------------------- | :--------------: | 
+| :---------------------- | :-----------------------------------------------------------------------------| :----------------------------------- | :--------------: |
+| Utility                 | :unlock: [**`digicam-rtsp`**](https://github.com/cpknight/digicam-rtsp)       | Stream `rtsp` from `gphoto2` digicams. | :green_circle: |
 | Experimental            | Proton Email Automation                                                       | Proton Email Automation.             | :green_circle:   |
 
 
