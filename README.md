@@ -1,5 +1,6 @@
 [:octocat:](https://github.com) &#9654; [`cpknight`](https://github.com/cpknight) &#9654; [`projects`](/)
----
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 :information_source: This repo is simply an index of projects (and their repos) related to the [reconnaissance devices](#reconnaissance-device-design-and-development-projects) that I'm working on, as well as a second table listing [miscellaneous](#miscellaneous-projects) projects. Projects with open source content are indicated with :unlock: unlocked lock' emoji, and your should be able to access these directly. For access to :lock: locked project materials, or for any other reason, please :envelope: [contact me](mailto:chris@cpknight.io).
   
