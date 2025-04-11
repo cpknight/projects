@@ -6,26 +6,28 @@
 
 :information_source: This repo contains an index of projects (and their repos) related to the reconnaissance devices that I'm working on, as well as a second table listing miscellaneous projects. Projects with open source content are indicated with a ':unlock:' emoji - for access to :lock:'d project materials, or for any other reason, please :envelope: [contact me](mailto:chris@cpknight.io).  
   
-| Category                | Project/Repo                                                  | Description                            | Activty          |    
-| :---------------------- | :------------------------------------------------------------ | :------------------------------------- | :--------------: | 
-| Research/Prototyping    | :lock: [**`Ain`**](https://github.com/cpknight/Ain)           | Freefall/parachute data capture.       | :red_circle:     | 
-| Research/Prototyping    | :lock: [**`Alpes`**](https://github.com/cpknight/Alpes)       | Freefall data capture experiments.     | :yellow_circle:  |  
+| Category                | Project/Repo                                                                        | Description                            | Activty          |    
+| :---------------------- | :---------------------------------------------------------------------------------- | :------------------------------------- | :--------------: | 
+| Research                | :lock: [**`Ain`**](https://github.com/cpknight/Ain)                                 | Freefall/parachute data capture.       | :red_circle:     | 
+| Research/Prototyping    | :lock: [**`Alpes`**](https://github.com/cpknight/Alpes)                             | Freefall data capture experiments.     | :yellow_circle:  |  
+| Research/Prototyping    | :lock: [**`Aube`**](https://github.com/cpknight/Aube)                               | Freefall/parachute devices.            | :yellow_circle:  |
+| Research                | :lock: [**`Aveyron`**](https://github.com/cpknight/Aveyron)                         | Small remote aerial vehicles.          | :yellow_circle:  |
+| Research/Prototyping    | :lock: [**`Beaufort`](https://github.com/cpknight/Beaufort)                         | Small parachute designs.               | :yellow_circle:  |
+| Prototyping/Design      | :lock: [**`Cantal`**](https://github.com/cpknight/Cantal)                           | Cylindrical freefall devices.          | :yellow_circle:  |
+| Production/Design       | :lock: [**`Dordogne`**](https://github.com/cpknight/Dordogne)                       | Common parts/sub-assemblies.           | :green_circle:   |
+| Production/Design       | :lock: [**`Eure`**](https://github.com/cpknight/Eure)                               | Sensor assemblies (PCB and firmware).  | :green_circle:   |
+| Research                | :lock: **`Garonne`**                                                                | Aerial imagery exploitation methods.   | :red_circle:     |  
+| Research/Prototyping    | :lock: **`Sarthe`**                                                                 | Aerial recce CNN design and training.  | :red_circle:     |
+| Production/Design       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                               | Small batch device production system.  | :yellow_circle:  |
+| Production/Design       | :lock: [`Vosges`](https://github.com/cpknight/Vosges)                               | "Paro" device design and production.   | :green_circle:   |
+| Production/Design       | :lock: [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard)           | "Paro" mainboard PCB and firmware.     | :green_circle:   |
 
 
 
 | Project         | Summary                                                         | Github Repo                                                         | :clock10: |
 | :----------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ | :----: |
-| :arrow_right: **`AUBE`** | **Freefall/parachute** devices. | [`Aube`](https://github.com/cpknight/Aube) | |
-| :arrow_right: **`VEYRON`** | **Remote aerial vehicles**. | [`Aveyron`](https://github.com/cpknight/Aveyron) | |
-| :arrow_right: **`BEAUFORT`** | **Small parachutes**. | [`Beaufort`](https://github.com/cpknight/Beaufort)  | |
-| :arrow_right: **`CANTAL`** | **Cylindrical freefall** devices. | [`Cantal`](https://github.com/cpknight/Cantal) | :white_check_mark: |
-| :arrow_right: **`DORDOGNE`** | **Common parts/sub-assemblies**. | [`Dordogne`](https://github.com/cpknight/Dordogne) | :white_check_mark: |
-| :arrow_right: **`EURE`** | **Single-board sensors** (pcb+fw). | [`Eure`](https://github.com/cpknight/Eure) | :white_check_mark: |
-| :arrow_right: **`GARONNE`** | **Aerial imagery exploitation**. | `Garonne` | |
-| :arrow_right: **`SARTHE`** | **Aerial recce neural networks**. | `Sarthe` | |
-| :arrow_right: **`TARN`** | **Small-scale manufacturing**. | [`Tarn`](https://github.com/cpknight/Tarn) | :white_check_mark: |
-| :arrow_right: **`VOSGES`** | **Paro devices**: | [`Vosges`](https://github.com/cpknight/Vosges) | :white_check_mark: |
-| | :arrow_lower_right: _Base mainboard PCB/firmware_. | [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard) | :white_check_mark: |
+| :arrow_right: **`VOSGES`** | **Paro devices**: |  | :white_check_mark: |
+| | :arrow_lower_right: _Base mainboard PCB/firmware_. |  | :white_check_mark: |
 | | :arrow_lower_right: _Enclosure 3D design_. | [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure) | :white_check_mark: |
 | | :arrow_lower_right: _End-user documentation_. | [`Paro`](https://github.com/cpknight/Paro) | :white_check_mark: |
 | :arrow_right: **`YONNE`** | **Digital clock devices**. | [`Yonne`](https://github.com/cpknight/Yonne) | :white_check_mark: |
