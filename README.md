@@ -28,7 +28,8 @@
 
 
 Notes:
-<sup>1</sup>. Includes: `aws-iot-test`, [`Website-Reconnaissance-Services`](https://github.com/cpknight/Website-Reconnaissance-Services), and [`Paro`](https://github.com/cpknight/Paro) (user documentation).
+1. Includes: `aws-iot-test`, [`Website-Reconnaissance-Services`](https://github.com/cpknight/Website-Reconnaissance-Services), and [`Paro`](https://github.com/cpknight/Paro) (user documentation).
+2. Lorem.
 
 
 
