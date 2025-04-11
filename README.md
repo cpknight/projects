@@ -2,9 +2,9 @@
 [ [:octocat:](https://github.com) &middot; [cpknight](https://github.com/cpknight) &middot; [projects](/) ]
 <!-- --------------------------------------------------------------------------------------- -->
 
-:information_source: This repo is simply an index of projects (and their repos) related to the reconnaissance devices that I'm working on, as well as a second table listing miscellaneous projects. Projects with open source content are indicated with a ':unlock:' emoji - for access to :lock:'d project materials, or for any other reason, please :envelope: [contact me](mailto:chris@cpknight.io).  
+:information_source: This repo is simply an index of projects (and their repos) related to the [reconnaissance devices](#reconnaissance-device-design-and-development-projects) that I'm working on, as well as a second table listing [miscellaneous](#miscellaneous-projects) projects. Projects with open source content are indicated with :unlock: unlocked lock' emoji, and your should be able to access these directly. For access to :lock: locked project materials, or for any other reason, please :envelope: [contact me](mailto:chris@cpknight.io).
   
-## Reconnaissance Device (Design and Development) Projects
+### Reconnaissance Device (Design and Development) Projects
 
 | Category                | Project/Repo                                                                  | Description                          | Activty          |    
 | :---------------------- | :-----------------------------------------------------------------------------| :----------------------------------- | :--------------: | 
@@ -104,5 +104,10 @@ _Notes_:
 
 -->
 
+## Miscellaneous Projects
+
+| Category                | Project/Repo                                                                  | Description                          | Activty          |    
+| :---------------------- | :-----------------------------------------------------------------------------| :----------------------------------- | :--------------: | 
+| Experimental            | Proton Email Automation                                                       | Proton Email Automation.             | :green_circle:   |
 
 
