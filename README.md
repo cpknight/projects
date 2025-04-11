@@ -12,14 +12,14 @@
 | Research/Prototyping    | :lock: [**`Alpes`**](https://github.com/cpknight/Alpes)                             | Freefall data capture experiments.     | :yellow_circle:  |  
 | Research/Prototyping    | :lock: [**`Aube`**](https://github.com/cpknight/Aube)                               | Freefall/parachute devices.            | :yellow_circle:  |
 | Research                | :lock: [**`Aveyron`**](https://github.com/cpknight/Aveyron)                         | Small remote aerial vehicles.          | :yellow_circle:  |
-| Research/Prototyping    | :lock: [**`Beaufort`](https://github.com/cpknight/Beaufort)                         | Small parachute designs.               | :yellow_circle:  |
+| Research/Prototyping    | :lock: [**`Beaufort`**](https://github.com/cpknight/Beaufort)                       | Small parachute designs.               | :yellow_circle:  |
 | Prototyping/Design      | :lock: [**`Cantal`**](https://github.com/cpknight/Cantal)                           | Cylindrical freefall devices.          | :yellow_circle:  |
 | Production/Design       | :lock: [**`Dordogne`**](https://github.com/cpknight/Dordogne)                       | Common parts/sub-assemblies.           | :green_circle:   |
 | Production/Design       | :lock: [**`Eure`**](https://github.com/cpknight/Eure)                               | Sensor assemblies (PCB and firmware).  | :green_circle:   |
 | Research                | :lock: **`Garonne`**                                                                | Aerial imagery exploitation methods.   | :red_circle:     |  
 | Research/Prototyping    | :lock: **`Sarthe`**                                                                 | Aerial recce CNN design and training.  | :red_circle:     |
 | Production/Design       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                               | Small batch device production system.  | :yellow_circle:  |
-| Production/Design       | :lock: [`Vosges`](https://github.com/cpknight/Vosges)                               | "Paro" device design and production.   | :green_circle:   |
+| Production/Design       | :lock: [**`Vosges`**](https://github.com/cpknight/Vosges)                           | "Paro" device design and production.   | :green_circle:   |
 | Production/Design       | :lock: [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard)           | "Paro" mainboard PCB and firmware.     | :green_circle:   |
 
 
