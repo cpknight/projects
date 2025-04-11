@@ -1,7 +1,7 @@
 <!-- --------------------------------------------------------------------------------------- -->
 [ [:octocat:](https://github.com) &middot; [cpknight](https://github.com/cpknight) &middot; [projects](/) ]
 <!-- --------------------------------------------------------------------------------------- -->
-:black_
+
 ## Device Design and Development Projects
 
 :information_source: This repo contains an index of projects (and their repos) related to the reconnaissance devices that I'm working on, as well as a second table listing miscellaneous projects. Projects with open source content are indicated with a ':unlock:' emoji - for access to :lock:'d project materials, or for any other reason, please :envelope: [contact me](mailto:chris@cpknight.io).  
@@ -10,15 +10,15 @@
 | :---------------------- | :-----------------------------------------------------------------------------| :----------------------------------- | :--------------: | 
 | Research                | :lock: [**`Ain`**](https://github.com/cpknight/Ain)                           | Freefall/parachute data capture.     | :black_circle:   | 
 | Research                | :lock: **`Garonne`**                                                          | Aerial imagery exploitation methods. | :black_circle:   |  
-| Research                | :lock: [**`Aveyron`**](https://github.com/cpknight/Aveyron)                   | Small remote aerial vehicles.        | :yellow_circle:  |
+| Research                | :lock: [**`Aveyron`**](https://github.com/cpknight/Aveyron)                   | Small remote aerial vehicles.        | :orange_circle:  |
 | Research/Prototyping    | :lock: **`Sarthe`**                                                           | Aerial recce CNN design and training.| :black_circle:   |
-| Research/Prototyping    | :lock: [**`Alpes`**](https://github.com/cpknight/Alpes)                       | Freefall data capture experiments.   | :yellow_circle:  |  
-| Research/Prototyping    | :lock: [**`Aube`**](https://github.com/cpknight/Aube)                         | Freefall/parachute devices.          | :yellow_circle:  |
-| Research/Prototyping    | :lock: [**`Beaufort`**](https://github.com/cpknight/Beaufort)                 | Small parachute designs.             | :yellow_circle:  |
-| Prototyping/Design      | :lock: [**`Cantal`**](https://github.com/cpknight/Cantal)                     | Cylindrical freefall devices.        | :yellow_circle:  |
+| Research/Prototyping    | :lock: [**`Alpes`**](https://github.com/cpknight/Alpes)                       | Freefall data capture experiments.   | :orange_circle:  |  
+| Research/Prototyping    | :lock: [**`Aube`**](https://github.com/cpknight/Aube)                         | Freefall/parachute devices.          | :orange_circle:  |
+| Research/Prototyping    | :lock: [**`Beaufort`**](https://github.com/cpknight/Beaufort)                 | Small parachute designs.             | :orange_circle:  |
+| Prototyping/Design      | :lock: [**`Cantal`**](https://github.com/cpknight/Cantal)                     | Cylindrical freefall devices.        | :orange_circle:  |
 | Production/Design       | :lock: [**`Dordogne`**](https://github.com/cpknight/Dordogne)                 | Common parts/sub-assemblies.         | :green_circle:   |
 | Production/Design       | :lock: [**`Eure`**](https://github.com/cpknight/Eure)                         | Sensor assemblies (PCB and firmware).| :green_circle:   |
-| Production/Design       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                         | Small batch device production system.| :yellow_circle:  |
+| Production/Design       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                         | Small batch device production system.| :orange_circle:  |
 | Production/Design       | :lock: [**`Vosges`**](https://github.com/cpknight/Vosges)                     | "Paro" device design and production. | :green_circle:   |
 | Production/Design       | :lock: [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure)     | "Paro" Cantal-compatable enclosure.  | :green_circle:   |
 | Production/Design       | :lock: [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard)     | "Paro" mainboard PCB and G0 firmware.| :green_circle:   |
