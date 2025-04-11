@@ -21,9 +21,9 @@
 | Production/Design       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                                     | Small batch device production system.| :yellow_circle:  |
 | Production/Design       | :lock: [**`Vosges`**](https://github.com/cpknight/Vosges)                                 | "Paro" device design and production. | :green_circle:   |
 | Production/Design       | :lock: [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure)                 | "Paro" Cantal-compatable enclosure.  | :green_circle:   |
-| Production/Design       | :lock: [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard)                 | "Paro" mainboard PCB and firmware.   | :green_circle:   |
-| Production/Design       | :lock: [`Vosges-Firmware-Paro`](https://github.com/cpknight/Vosges-Firmware-Paro)         | "Paro" Gen1 firmware (`PlatformIO`). | :green_circle:   |
-| Production/Design       | :lock: [`Vosges-Firmware-Paro-G2`](https://github.com/cpknight/Vosges-Firmware-Paro-G2)   | "Paro" Gen2 firmware (`ESP-IDF`).    | :green_circle:   |
+| Production/Design       | :lock: [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard)     | "Paro" mainboard PCB and G0 firmware.| :green_circle:   |
+| Production/Design       | :lock: [`Vosges-Firmware-G1`](https://github.com/cpknight/Vosges-Firmware-G1) | "Paro" Gen1 firmware (`PlatformIO`). | :green_circle:   |
+| Production/Design       | :lock: [`Vosges-Firmware-G2`](https://github.com/cpknight/Vosges-Firmware-G2) | "Paro" Gen2 firmware (`ESP-IDF`).    | :green_circle:   |
 | Production/Design       | :lock: `Vosges-Management`                                                                | "Paro" CLI, web, and admin control.<sup>1</sup> | :green_circle: |
 | Production/Design       | :lock: [**`Yonne`**](https://github.com/cpknight/Yonne)                                   | Digital satellite/network clocks.    | :green_circle:   |
 
