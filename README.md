@@ -7,7 +7,7 @@
   
 ### Reconnaissance Device (Design and Development) Projects
 
-| Category                | Project/Repo                                                                  | Description                          | Activty          |    
+| PDLC                    | Project/Repo                                                                  | Description                          | Activty          |    
 | :---------------------- | :-----------------------------------------------------------------------------| :----------------------------------- | :--------------: | 
 | Research                | :lock: [**`Ain`**](https://github.com/cpknight/Ain)                           | Freefall/parachute data capture.     | :black_circle:   | 
 | Research                | :lock: **`Garonne`**                                                          | Aerial imagery exploitation methods. | :black_circle:   |  
