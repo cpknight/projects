@@ -17,22 +17,23 @@
 | Research/Prototyping    | :lock: [**`Aube`**](https://github.com/cpknight/Aube)                         | Freefall/parachute devices.          | :orange_circle:  |
 | Research/Prototyping    | :lock: [**`Beaufort`**](https://github.com/cpknight/Beaufort)                 | Small parachute designs.             | :orange_circle:  |
 | Prototyping/Design      | :lock: [**`Cantal`**](https://github.com/cpknight/Cantal)                     | Cylindrical freefall devices.        | :orange_circle:  |
-| Production/Design       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                         | Small batch device production system.| :orange_circle:  |
-| Production/Design       | :lock: [**`Dordogne`**](https://github.com/cpknight/Dordogne)                 | Common parts/sub-assemblies.         | :green_circle:   |
-| Production/Design       | :lock: [**`Vosges`**](https://github.com/cpknight/Vosges)                     | "Paro" device design and production. | :green_circle:   |
-| Production/Design       | :lock: [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure)     | "Paro" Cantal-compatable enclosure.  | :green_circle:   |
-| Production/Design       | :lock: [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard)     | "Paro" mainboard PCB and G0 firmware.| :green_circle:   |
-| Production/Design       | :lock: [`Vosges-Firmware-G1`](https://github.com/cpknight/Vosges-Firmware-G1) | "Paro" Gen1 firmware (`PlatformIO`). | :green_circle:   |
-| Production/Design       | :lock: [`Vosges-Firmware-G2`](https://github.com/cpknight/Vosges-Firmware-G2) | "Paro" Gen2 firmware (`ESP-IDF`).    | :green_circle:   |
-| Production/Design       | :lock: `Vosges-Management`                                                    | "Paro" CLI, web, and admin control.<sup>2</sup> | :green_circle: |
-| Production/Design       | :lock: [**`Yonne`**](https://github.com/cpknight/Yonne)                       | Digital satellite/network clocks.    | :green_circle:   |
-| Production/Design       | :lock: [**`Eure`**](https://github.com/cpknight/Eure)                         | Sensor assemblies (PCB and firmware).| :green_circle:   |
+| Design/Production       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                         | Small batch device production system.| :orange_circle:  |
+| Design/Production       | :lock: [**`Dordogne`**](https://github.com/cpknight/Dordogne)                 | Common parts/sub-assemblies.         | :green_circle:   |
+| Design/Production       | :lock: [**`Vosges`**](https://github.com/cpknight/Vosges)                     | "Paro" device design and production. | :green_circle:   |
+| Design/Production       | :lock: [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure)     | "Paro" Cantal-compatable enclosure.  | :green_circle:   |
+| Design/Production       | :lock: [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard)     | "Paro" mainboard PCB and G0 firmware.| :green_circle:   |
+| Design/Production       | :lock: [`Vosges-Firmware-G1`](https://github.com/cpknight/Vosges-Firmware-G1) | "Paro" Gen1 firmware (`PlatformIO`). | :green_circle:   |
+| Design/Production       | :lock: [`Vosges-Firmware-G2`](https://github.com/cpknight/Vosges-Firmware-G2) | "Paro" Gen2 firmware (`ESP-IDF`).    | :green_circle:   |
+| Design/Production       | :lock: `Vosges-Management`                                                    | "Paro" CLI, web, and admin control.<sup>2</sup> | :green_circle: |
+| Design/Production       | :lock: [**`Yonne`**](https://github.com/cpknight/Yonne)                       | Digital satellite/network clocks.    | :green_circle:   |
+| Design/Production       | :lock: [**`Eure`**](https://github.com/cpknight/Eure)                         | Sensor assemblies (PCB and firmware).| :green_circle:   |
 
 _Notes_:
 1. Reconnaissance projects are named after départements of France, and may correspond to any aspect of device design and prototyping component or development stage, eg: airframes, parachutes, hardware, software, or tactics.
-2. The `Vosges-Management` sub-project is to be consolidated, and includes `aws-iot-test`, [`Website-Reconnaissance-Services`](https://github.com/cpknight/Website-Reconnaissance-Services), and [`Paro`](https://github.com/cpknight/Paro) (user documentation).
-3. If you need access to a :lock: repo, contact [`@cpknight`](https://github.com/cpknight) with your Github username for access to the repository that you're collaborating on. :open_book: Open repos should automatically let you fork or view/download whatever you need.
-4. Many of these repositories make use of [`Git Large File Storage`](https://git-lfs.github.com/), so please also enable that extension on your system. 
+2. Projects will generally span 1 or two PDLC phases. The approach/phases I use for rapid prototyping and iterative design/production is: `Research` :arrows_counterclockwise: `Prototyping` :arrows_counterclockwise: `Design` :arrows_counterclockwise: `Production`. Where applicable, `Design` phases include `Testing` and `Certification` sub-phases; and `Production` phases include `QA/QC` sub-phases. 
+3. The `Vosges-Management` sub-project is to be consolidated, and includes `aws-iot-test`, [`Website-Reconnaissance-Services`](https://github.com/cpknight/Website-Reconnaissance-Services), and [`Paro`](https://github.com/cpknight/Paro) (user documentation).
+4. If you need access to a :lock: repo, contact [`@cpknight`](https://github.com/cpknight) with your Github username for access to the repository that you're collaborating on. :open_book: Open repos should automatically let you fork or view/download whatever you need.
+5. Many of these repositories make use of [`Git Large File Storage`](https://git-lfs.github.com/), so please also enable that extension on your system. 
 
 <!-- OLD INDEX:
 
