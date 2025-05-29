@@ -19,6 +19,7 @@
 | Prototyping/Design      | :lock: [**`Cantal`**](https://github.com/cpknight/Cantal)                     | Cylindrical freefall devices.        | :orange_circle:  |
 | Design/Production       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                         | Small batch device production system.| :orange_circle:  |
 | Design/Production       | :lock: [**`Dordogne`**](https://github.com/cpknight/Dordogne)                 | Common parts/sub-assemblies.         | :green_circle:   |
+| Design/Production       | :lock: [**`Drôme`**](https://github.com/cpknight/Drome)                       | Next-generation device power PCB.    | :green_circle:   |
 | Design/Production       | :lock: [**`Vosges`**](https://github.com/cpknight/Vosges)                     | "Paro" device design and production. | :green_circle:   |
 | Design/Production       | :lock: [`Vosges-Enclosure`](https://github.com/cpknight/Vosges-Enclosure)     | "Paro" Cantal-compatable enclosure.  | :green_circle:   |
 | Design/Production       | :lock: [`Vosges-Mainboard`](https://github.com/cpknight/Vosges-Mainboard)     | "Paro" mainboard PCB and G0 firmware.| :green_circle:   |
