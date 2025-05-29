@@ -109,9 +109,26 @@ _Notes_:
 
 ### Miscellaneous Projects
 
-| Category                | Project/Repo                                                                  | Description                          | Activty          |    
-| :---------------------- | :-----------------------------------------------------------------------------| :----------------------------------- | :--------------: |
-| Utility                 | :open_book: [**`digicam-rtsp`**](https://github.com/cpknight/digicam-rtsp)       | Stream `rtsp` from `gphoto2` digicams. | :green_circle: |
-| Experimental            | Proton Email Automation                                                       | Proton Email Automation.             | :green_circle:   |
+| Category                | Project/Repo                                                                  | Description                               | Activty          |    
+| :---------------------- | :-----------------------------------------------------------------------------| :---------------------------------------- | :--------------: |
+| Utility                 | :open_book: [**`digicam-rtsp`**](https://github.com/cpknight/digicam-rtsp)    | Stream `rtsp` from `gphoto2` digicams.    | :green_circle:   |
+| Experimental            | :stopwatch: Proton Email Automation                                           | Proton Email Automation.                  | :green_circle:   |
+| Preliminary             | :stopwatch: **Torch**                                                         | Restoring vintage typewriters to glory.   | :green_circle:   |
+| Preliminary             | :stopwatch: **Raven**                                                         | WiFi retrofit kit for Selectric printers. | :green_circle:   |
+
+<!-- 
+
+Project Torch
+Description: Electro-mechanical typewriter restoration/refurbishment, focusing on IBM Selectrics, Adler, and Brother machines.
+Rationale: Named after the “torchship” from Heinlein’s Double Star, evoking the power and precision of restoring vintage typewriters to full function.
+
+Project Raven
+Description: Development of a new-generation actuator solution/kit to retrofit IBM Selectrics into WiFi-enabled line printers.
+Rationale: Inspired by the Raven from The Moon is a Harsh Mistress, symbolizing the sleek, advanced tech that modernizes classic machines.
+
+Schema
+Use single-word spaceship names from Robert A. Heinlein’s universe (e.g., Hawk, Dart, Star, Flame, Scout) for project codenames.
+
+-->
 
 
