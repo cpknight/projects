@@ -18,7 +18,7 @@
 | Research/Prototyping    | :lock: [**`Beaufort`**](https://github.com/cpknight/Beaufort)                 | Small parachute designs.             | :orange_circle:  |
 | Prototyping/Design      | :lock: [**`Cantal`**](https://github.com/cpknight/Cantal)                     | Cylindrical freefall devices.        | :orange_circle:  |
 | Prototyping/Design      | :lock: [**`Gironde`**](https://github.com/cpknight/Gironde)                   | POE Ethernet recce hard/firmware.    | :green_circle:   |
-| Design/Production       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                         | Small batch device production system.| :orange_circle:  |
+| Design/Production       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                         | Small batch device production system.| :green_circle:   |
 | Design/Production       | :lock: [**`Dordogne`**](https://github.com/cpknight/Dordogne)                 | Common parts/sub-assemblies.         | :green_circle:   |
 | Design/Production       | :lock: [**`Drôme`**](https://github.com/cpknight/Drome)                       | Next-generation device power PCB.    | :green_circle:   |
 | Design/Production       | :lock: [**`Vosges`**](https://github.com/cpknight/Vosges)                     | "Paro" device design and production. | :green_circle:   |
