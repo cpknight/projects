@@ -125,7 +125,7 @@ _Notes_:
 | Preliminary             | :stopwatch: **Gremlin**                                                       | (RPAS/UAV Drones)                         | :green_circle:   |
 | Preliminary             | :stopwatch: **Minerva**                                                       | (SBC Devices)                             | :green_circle:   |
 | Preliminary             | :stopwatch: **Vanguard**                                                      | (A/V Devices)                             | :green_circle:   |
-| Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
+| Preliminary             | :stopwatch: **Infinity**                                                      | (Amateur Radio)                           | :green_circle:   |
 | Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
 
 <!-- 
@@ -160,7 +160,7 @@ Use single-word spaceship names from Robert A. Heinlein’s universe (e.g., Hawk
 |  X  | Gremlin     | Spacecraft in orbital operations.                                     | Short story: “Space Jockey” (Robert A. Heinlein)                 |
 |  X  | Minerva     | AI-controlled ship in alternate universes.                            | Novel: The Number of the Beast (Robert A. Heinlein)              |
 |  X  | Vanguard    | Generation ship whose inhabitants forgot their mission.               | Novel: Orphans of the Sky (Robert A. Heinlein)                   |
-|     | Infinity    | Faster-than-light exploration vessel.                                 | Novel: Time for the Stars (Robert A. Heinlein)                   |
+|  X  | Infinity    | Faster-than-light exploration vessel.                                 | Novel: Time for the Stars (Robert A. Heinlein)                   |
 |     | Nautilus    | Torchship for relativistic interstellar exploration.                  | Novel: Time for the Stars (Robert A. Heinlein)                   |
 |     | Champion    | Ship that transported the Martian to Earth.                           | Novel: Stranger in a Strange Land (Robert A. Heinlein)           |
 |     | Polestar    | Construction ship in space station building.                          | Short story: “Delilah and the Space Rigger” (Robert A. Heinlein) |
