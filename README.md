@@ -114,18 +114,29 @@ _Notes_:
 | :---------------------- | :-----------------------------------------------------------------------------| :---------------------------------------- | :--------------: |
 | Utility                 | :open_book: [**`digicam-rtsp`**](https://github.com/cpknight/digicam-rtsp)    | Stream `rtsp` from `gphoto2` digicams.    | :green_circle:   |
 | Experimental            | :stopwatch: Proton Email Automation                                           | Proton Email Automation.                  | :green_circle:   |
+| Preliminary             | :stopwatch: **Sisu**                                                          | (Vintage Devices) (incl. Keyboards)       | :green_circle:   |
 | Preliminary             | :stopwatch: **Torch**                                                         | Restoring vintage typewriters to glory.   | :green_circle:   |
-| Preliminary             | :stopwatch: **Tricown**                                                       | WiFi retrofit kit for Selectric printers. | :green_circle:   |
-| Preliminary             | :stopwatch: **Vanguard**                                                      | (WiFi Routers) | :green_circle:   |
-  
+| Preliminary             | :stopwatch: **Tricorn**                                                       | WiFi retrofit kit for Selectric printers. | :green_circle:   |
+| Preliminary             | :stopwatch: **Envoy**                                                         | (Digital Cameras)                         | :green_circle:   |
+| Preliminary             | :stopwatch: **Hydra**                                                         | (WiFi Routers)                            | :green_circle:   |
+| Preliminary             | :stopwatch: **Dora**                                                          | (RJ45 Ethernet)                           | :green_circle:   |
+| Preliminary             | :stopwatch: **Tours**                                                         | (SIP Telephony)                           | :green_circle:   |
+| Preliminary             | :stopwatch: **Asgard**                                                        | (RS-232 / TTL Serial)                     | :green_circle:   |
+| Preliminary             | :stopwatch: **Gremlin**                                                       | (RPAS/UAV Drones)                         | :green_circle:   |
+| Preliminary             | :stopwatch: **Minerva**                                                       | (SBC Devices)                             | :green_circle:   |
+| Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
+| Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
+| Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
 
 <!-- 
 
+NOTE
+
 Project Torch
-Description: Electro-mechanical typewriter restoration/refurbishment, focusing on IBM Selectrics, Adler, and Brother machines.
+Description: Electro-mechanical typewriter restoration/refurbishment, focusing on IBM Selectrics, Adler, and Brother machines. Also Olympia mechanicals.
 Rationale: Named after the “torchship” from Heinlein’s Double Star, evoking the power and precision of restoring vintage typewriters to full function.
 
-Project Raven
+Project Tricorn
 Description: Development of a new-generation actuator solution/kit to retrofit IBM Selectrics into WiFi-enabled line printers.
 Rationale: Inspired by the Raven from The Moon is a Harsh Mistress, symbolizing the sleek, advanced tech that modernizes classic machines.
 
@@ -136,23 +147,23 @@ Use single-word spaceship names from Robert A. Heinlein’s universe (e.g., Hawk
 
 ### Starship Projecct Name Table
 
-|Name       |Description                                                          |Source                                                          |
-|-----------|---------------------------------------------------------------------|----------------------------------------------------------------|
-|Sisu       |Family-owned free trader spaceship in interstellar commerce.         |Novel: Citizen of the Galaxy (Robert A. Heinlein)               |
-|Vanguard   |Generation ship whose inhabitants forgot their mission.              |Novel: Orphans of the Sky (Robert A. Heinlein)                  |
-|Tricorn    |Passenger liner traveling to Venus and Mars.                         |Novel: Podkayne of Mars (Robert A. Heinlein)                    |
-|Torch      |High-thrust interstellar spaceship using torch drive for exploration.|Novel: Time for the Stars (Robert A. Heinlein)                  |
-|Asgard     |Passenger starship, formerly the Einstein, for interstellar travel.  |Novel: Starman Jones (Robert A. Heinlein)                       |
-|Dora       |Intelligent spaceship used in multiverse adventures.                 |Novel: The Number of the Beast (Robert A. Heinlein)             |
-|Hydra      |Military cruiser in interstellar operations.                         |Novel: Citizen of the Galaxy (Robert A. Heinlein)               |
-|Infinity   |Faster-than-light exploration vessel.                                |Novel: Time for the Stars (Robert A. Heinlein)                  |
-|Minerva    |AI-controlled ship in alternate universes.                           |Novel: The Number of the Beast (Robert A. Heinlein)             |
-|Nautilus   |Torchship for relativistic interstellar exploration.                 |Novel: Time for the Stars (Robert A. Heinlein)                  |
-|Serendipity|Exploration torchship seeking new worlds.                            |Novel: Time for the Stars (Robert A. Heinlein)                  |
-|Tours      |Troop transport in interstellar wars.                                |Novel: Starship Troopers (Robert A. Heinlein)                   |
-|Champion   |Ship that transported the Martian to Earth.                          |Novel: Stranger in a Strange Land (Robert A. Heinlein)          |
-|Envoy      |Exploration vessel to Mars.                                          |Novel: Stranger in a Strange Land (Robert A. Heinlein)          |
-|Gremlin    |Spacecraft in orbital operations.                                    |Short story: “Space Jockey” (Robert A. Heinlein)                |
-|Polestar   |Construction ship in space station building.                         |Short story: “Delilah and the Space Rigger” (Robert A. Heinlein)|
-|Valkyrie   |Ship involved in space ordeal.                                       |Short story: “Ordeal in Space” (Robert A. Heinlein)             |
-|Wanderlust |Passenger ship for interplanetary travel.                            |Novel: Podkayne of Mars (Robert A. Heinlein)                    |
+|  X  | Name        | Description                                                           | Source                                                           |
+| :-: |-------------|-----------------------------------------------------------------------|------------------------------------------------------------------|
+|  X  | Dora        | Intelligent spaceship used in multiverse adventures.                  | Novel: The Number of the Beast (Robert A. Heinlein)              |
+|  X  | Sisu        | Family-owned free trader spaceship in interstellar commerce.          | Novel: Citizen of the Galaxy (Robert A. Heinlein)                |
+|  X  | Torch       | High-thrust interstellar spaceship using torch drive for exploration. | Novel: Time for the Stars (Robert A. Heinlein)                   |
+|  X  | Envoy       | Exploration vessel to Mars.                                           | Novel: Stranger in a Strange Land (Robert A. Heinlein)           |
+|  X  | Tours       | Troop transport in interstellar wars.                                 | Novel: Starship Troopers (Robert A. Heinlein)                    |
+|  X  | Hydra       | Military cruiser in interstellar operations.                          | Novel: Citizen of the Galaxy (Robert A. Heinlein)                |
+|  X  | Asgard      | Passenger starship, formerly the Einstein, for interstellar travel.   | Novel: Starman Jones (Robert A. Heinlein)                        |
+|  X  | Tricorn     | Passenger liner traveling to Venus and Mars.                          | Novel: Podkayne of Mars (Robert A. Heinlein)                     |
+|  X  | Gremlin     | Spacecraft in orbital operations.                                     | Short story: “Space Jockey” (Robert A. Heinlein)                 |
+|  X  | Minerva     | AI-controlled ship in alternate universes.                            | Novel: The Number of the Beast (Robert A. Heinlein)              |
+|     | Vanguard    | Generation ship whose inhabitants forgot their mission.               | Novel: Orphans of the Sky (Robert A. Heinlein)                   |
+|     | Infinity    | Faster-than-light exploration vessel.                                 | Novel: Time for the Stars (Robert A. Heinlein)                   |
+|     | Nautilus    | Torchship for relativistic interstellar exploration.                  | Novel: Time for the Stars (Robert A. Heinlein)                   |
+|     | Champion    | Ship that transported the Martian to Earth.                           | Novel: Stranger in a Strange Land (Robert A. Heinlein)           |
+|     | Polestar    | Construction ship in space station building.                          | Short story: “Delilah and the Space Rigger” (Robert A. Heinlein) |
+|     | Valkyrie    | Ship involved in space ordeal.                                        | Short story: “Ordeal in Space” (Robert A. Heinlein)              |
+|     | Wanderlust  | Passenger ship for interplanetary travel.                             | Novel: Podkayne of Mars (Robert A. Heinlein)                     |
+|     | Serendipity | Exploration torchship seeking new worlds.                             | Novel: Time for the Stars (Robert A. Heinlein)                   |
