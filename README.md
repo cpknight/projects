@@ -115,7 +115,9 @@ _Notes_:
 | Utility                 | :open_book: [**`digicam-rtsp`**](https://github.com/cpknight/digicam-rtsp)    | Stream `rtsp` from `gphoto2` digicams.    | :green_circle:   |
 | Experimental            | :stopwatch: Proton Email Automation                                           | Proton Email Automation.                  | :green_circle:   |
 | Preliminary             | :stopwatch: **Torch**                                                         | Restoring vintage typewriters to glory.   | :green_circle:   |
-| Preliminary             | :stopwatch: **Raven**                                                         | WiFi retrofit kit for Selectric printers. | :green_circle:   |
+| Preliminary             | :stopwatch: **Tricown**                                                       | WiFi retrofit kit for Selectric printers. | :green_circle:   |
+| Preliminary             | :stopwatch: **Vanguard**                                                      | (WiFi Routers) | :green_circle:   |
+  
 
 <!-- 
 
@@ -134,20 +136,23 @@ Use single-word spaceship names from Robert A. Heinlein’s universe (e.g., Hawk
 
 ### Starship Projecct Name Table
 
-|Name      |Description                                                                |Source                                              |
-|----------|---------------------------------------------------------------------------|----------------------------------------------------|
-|Enterprise|Iconic starship exploring strange new worlds and civilizations.            |TV/Film: Star Trek (Gene Roddenberry)               |
-|Serenity  |Firefly-class transport used by a crew of smugglers in a post-war universe.|TV: Firefly (Joss Whedon)                           |
-|Nostromo  |Commercial towing vessel hauling ore, infested by an alien creature.       |Film: Alien (Ridley Scott)                          |
-|Discovery |Research vessel sent to Jupiter, controlled by AI HAL 9000.                |Novel/Film: 2001: A Space Odyssey (Arthur C. Clarke)|
-|Endurance |Rotating spacecraft for interstellar travel to find habitable planets.     |Film: Interstellar (Christopher Nolan)              |
-|Prometheus|Exploration vessel investigating alien origins.                            |Film: Prometheus (Ridley Scott)                     |
-|Axiom     |Massive luxury starliner housing humanity after Earth's abandonment.       |Film: WALL-E (Pixar/Andrew Stanton)                 |
-|Rocinante |Converted Martian gunship used by a ragtag crew in solar system conflicts. |Novels/TV: The Expanse (James S.A. Corey)           |
-|Galactica |Battlestar leading survivors in search of Earth after Cylon attack.        |TV: Battlestar Galactica (Glen A. Larson)           |
-|Orville   |Mid-level exploratory vessel in a comedic take on space adventures.        |TV: The Orville (Seth MacFarlane)                   |
-|Sisu      |Family-owned free trader spaceship in interstellar commerce.               |Novel: Citizen of the Galaxy (Robert A. Heinlein)   |
-|Vanguard  |Generation ship whose inhabitants forgot their mission.                    |Novel: Orphans of the Sky (Robert A. Heinlein)      |
-|Tricorn   |Passenger liner traveling to Venus and Mars.                               |Novel: Podkayne of Mars (Robert A. Heinlein)        |
-|Torch     |High-thrust interstellar spaceship using torch drive for exploration.      |Novel: Time for the Stars (Robert A. Heinlein)      |
-|Nemesis   |Starship sent to investigate a rogue star, facing internal crew conflicts. |Novel: Nemesis (Isaac Asimov)                       |
+|Name       |Description                                                          |Source                                                          |
+|-----------|---------------------------------------------------------------------|----------------------------------------------------------------|
+|Sisu       |Family-owned free trader spaceship in interstellar commerce.         |Novel: Citizen of the Galaxy (Robert A. Heinlein)               |
+|Vanguard   |Generation ship whose inhabitants forgot their mission.              |Novel: Orphans of the Sky (Robert A. Heinlein)                  |
+|Tricorn    |Passenger liner traveling to Venus and Mars.                         |Novel: Podkayne of Mars (Robert A. Heinlein)                    |
+|Torch      |High-thrust interstellar spaceship using torch drive for exploration.|Novel: Time for the Stars (Robert A. Heinlein)                  |
+|Asgard     |Passenger starship, formerly the Einstein, for interstellar travel.  |Novel: Starman Jones (Robert A. Heinlein)                       |
+|Dora       |Intelligent spaceship used in multiverse adventures.                 |Novel: The Number of the Beast (Robert A. Heinlein)             |
+|Hydra      |Military cruiser in interstellar operations.                         |Novel: Citizen of the Galaxy (Robert A. Heinlein)               |
+|Infinity   |Faster-than-light exploration vessel.                                |Novel: Time for the Stars (Robert A. Heinlein)                  |
+|Minerva    |AI-controlled ship in alternate universes.                           |Novel: The Number of the Beast (Robert A. Heinlein)             |
+|Nautilus   |Torchship for relativistic interstellar exploration.                 |Novel: Time for the Stars (Robert A. Heinlein)                  |
+|Serendipity|Exploration torchship seeking new worlds.                            |Novel: Time for the Stars (Robert A. Heinlein)                  |
+|Tours      |Troop transport in interstellar wars.                                |Novel: Starship Troopers (Robert A. Heinlein)                   |
+|Champion   |Ship that transported the Martian to Earth.                          |Novel: Stranger in a Strange Land (Robert A. Heinlein)          |
+|Envoy      |Exploration vessel to Mars.                                          |Novel: Stranger in a Strange Land (Robert A. Heinlein)          |
+|Gremlin    |Spacecraft in orbital operations.                                    |Short story: “Space Jockey” (Robert A. Heinlein)                |
+|Polestar   |Construction ship in space station building.                         |Short story: “Delilah and the Space Rigger” (Robert A. Heinlein)|
+|Valkyrie   |Ship involved in space ordeal.                                       |Short story: “Ordeal in Space” (Robert A. Heinlein)             |
+|Wanderlust |Passenger ship for interplanetary travel.                            |Novel: Podkayne of Mars (Robert A. Heinlein)                    |
