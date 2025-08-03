@@ -132,4 +132,22 @@ Use single-word spaceship names from Robert A. Heinlein’s universe (e.g., Hawk
 
 -->
 
+### Starship Projecct Name Table
 
+|Name      |Description                                                                |Source                                              |
+|----------|---------------------------------------------------------------------------|----------------------------------------------------|
+|Enterprise|Iconic starship exploring strange new worlds and civilizations.            |TV/Film: Star Trek (Gene Roddenberry)               |
+|Serenity  |Firefly-class transport used by a crew of smugglers in a post-war universe.|TV: Firefly (Joss Whedon)                           |
+|Nostromo  |Commercial towing vessel hauling ore, infested by an alien creature.       |Film: Alien (Ridley Scott)                          |
+|Discovery |Research vessel sent to Jupiter, controlled by AI HAL 9000.                |Novel/Film: 2001: A Space Odyssey (Arthur C. Clarke)|
+|Endurance |Rotating spacecraft for interstellar travel to find habitable planets.     |Film: Interstellar (Christopher Nolan)              |
+|Prometheus|Exploration vessel investigating alien origins.                            |Film: Prometheus (Ridley Scott)                     |
+|Axiom     |Massive luxury starliner housing humanity after Earth's abandonment.       |Film: WALL-E (Pixar/Andrew Stanton)                 |
+|Rocinante |Converted Martian gunship used by a ragtag crew in solar system conflicts. |Novels/TV: The Expanse (James S.A. Corey)           |
+|Galactica |Battlestar leading survivors in search of Earth after Cylon attack.        |TV: Battlestar Galactica (Glen A. Larson)           |
+|Orville   |Mid-level exploratory vessel in a comedic take on space adventures.        |TV: The Orville (Seth MacFarlane)                   |
+|Sisu      |Family-owned free trader spaceship in interstellar commerce.               |Novel: Citizen of the Galaxy (Robert A. Heinlein)   |
+|Vanguard  |Generation ship whose inhabitants forgot their mission.                    |Novel: Orphans of the Sky (Robert A. Heinlein)      |
+|Tricorn   |Passenger liner traveling to Venus and Mars.                               |Novel: Podkayne of Mars (Robert A. Heinlein)        |
+|Torch     |High-thrust interstellar spaceship using torch drive for exploration.      |Novel: Time for the Stars (Robert A. Heinlein)      |
+|Nemesis   |Starship sent to investigate a rogue star, facing internal crew conflicts. |Novel: Nemesis (Isaac Asimov)                       |
