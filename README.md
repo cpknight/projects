@@ -121,13 +121,13 @@ _Notes_:
 | Preliminary             | :stopwatch: **Hydra**                                                         | (WiFi Routers)                            | :green_circle:   |
 | Preliminary             | :stopwatch: **Dora**                                                          | (RJ45 Ethernet)                           | :green_circle:   |
 | Preliminary             | :stopwatch: **Tours**                                                         | (SIP Telephony)                           | :green_circle:   |
-| Preliminary             | :stopwatch: **Asgard**                                                        | (RS-232 / TTL Serial)                     | :green_circle:   |
+| Preliminary             | :stopwatch: **Asgard**                                                        | (RS-232 / TTL / USB Serial)               | :green_circle:   |
 | Preliminary             | :stopwatch: **Gremlin**                                                       | (RPAS/UAV Drones)                         | :green_circle:   |
 | Preliminary             | :stopwatch: **Minerva**                                                       | (SBC Devices)                             | :green_circle:   |
 | Preliminary             | :stopwatch: **Vanguard**                                                      | (A/V Devices)                             | :green_circle:   |
 | Preliminary             | :stopwatch: **Infinity**                                                      | (Amateur Radio)                           | :green_circle:   |
-| Preliminary             | :stopwatch: **Nautilus**                                                      | (Vintage Magnetic Media)                  | :green_circle:   |
-| Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
+| Preliminary             | :stopwatch: **Nautilus**                                                      | (Magnetic Optical Media)                  | :green_circle:   |
+| Preliminary             | :stopwatch: **Polestar**                                                      | (IoT & Electrics 120V/240V 50/60Hz, &c.)  | :green_circle:   |
 | Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
 
 <!-- 
@@ -164,8 +164,8 @@ Use single-word spaceship names from Robert A. Heinlein’s universe (e.g., Hawk
 |  X  | Vanguard    | Generation ship whose inhabitants forgot their mission.               | Novel: Orphans of the Sky (Robert A. Heinlein)                   |
 |  X  | Infinity    | Faster-than-light exploration vessel.                                 | Novel: Time for the Stars (Robert A. Heinlein)                   |
 |  X  | Nautilus    | Torchship for relativistic interstellar exploration.                  | Novel: Time for the Stars (Robert A. Heinlein)                   |
-|     | Champion    | Ship that transported the Martian to Earth.                           | Novel: Stranger in a Strange Land (Robert A. Heinlein)           |
-|     | Polestar    | Construction ship in space station building.                          | Short story: “Delilah and the Space Rigger” (Robert A. Heinlein) |
+|  X  | Polestar    | Construction ship in space station building.                          | Short story: “Delilah and the Space Rigger” (Robert A. Heinlein) |
 |     | Valkyrie    | Ship involved in space ordeal.                                        | Short story: “Ordeal in Space” (Robert A. Heinlein)              |
+|     | Champion    | Ship that transported the Martian to Earth.                           | Novel: Stranger in a Strange Land (Robert A. Heinlein)           |
 |     | Wanderlust  | Passenger ship for interplanetary travel.                             | Novel: Podkayne of Mars (Robert A. Heinlein)                     |
 |     | Serendipity | Exploration torchship seeking new worlds.                             | Novel: Time for the Stars (Robert A. Heinlein)                   |
