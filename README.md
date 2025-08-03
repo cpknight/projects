@@ -126,7 +126,7 @@ _Notes_:
 | Preliminary             | :stopwatch: **Minerva**                                                       | (SBC Devices)                             | :green_circle:   |
 | Preliminary             | :stopwatch: **Vanguard**                                                      | (A/V Devices)                             | :green_circle:   |
 | Preliminary             | :stopwatch: **Infinity**                                                      | (Amateur Radio)                           | :green_circle:   |
-| Preliminary             | :stopwatch: **Nautilus**                                                      | (XXX)                                     | :green_circle:   |
+| Preliminary             | :stopwatch: **Nautilus**                                                      | (Vintage Magnetic Media)                  | :green_circle:   |
 | Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
 | Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
 
