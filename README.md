@@ -114,7 +114,7 @@ _Notes_:
 | :---------------------- | :-----------------------------------------------------------------------------| :---------------------------------------- | :--------------: |
 | Utility                 | :open_book: [**`digicam-rtsp`**](https://github.com/cpknight/digicam-rtsp)    | Stream `rtsp` from `gphoto2` digicams.    | :green_circle:   |
 | Experimental            | :stopwatch: Proton Email Automation                                           | Proton Email Automation.                  | :green_circle:   |
-| Preliminary             | :stopwatch: **Sisu**                                                          | (Vintage Devices) (incl. Keyboards)       | :green_circle:   |
+| Preliminary             | :open_book: [**`Sisu`**](https://github.com/cpknight/Sisu)                    | Vintage electronic device restoration.    | :green_circle:   |
 | Preliminary             | :stopwatch: **Torch**                                                         | Restoring vintage typewriters to glory.   | :green_circle:   |
 | Preliminary             | :stopwatch: **Tricorn**                                                       | WiFi retrofit kit for Selectric printers. | :green_circle:   |
 | Preliminary             | :stopwatch: **Envoy**                                                         | (Digital Cameras)                         | :green_circle:   |
