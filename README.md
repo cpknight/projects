@@ -30,7 +30,7 @@
 | Design/Production       | :lock: [**`Yonne`**](https://github.com/cpknight/Yonne)                       | Digital satellite/network clocks.    | :green_circle:   |
 | Design/Production       | :lock: [**`Eure`**](https://github.com/cpknight/Eure)                         | Sensor assemblies (PCB and firmware).| :green_circle:   |
 
-_Notes_:
+_Recce Device Projects &middot; Notes_:
 1. Reconnaissance projects are named after départements of France, and may correspond to any aspect of device design and prototyping component or development stage, eg: airframes, parachutes, hardware, software, or tactics.
 2. Projects will generally span 1 or two PDLC phases. The approach/phases I use for rapid prototyping and iterative design/production is: `Research` :arrows_counterclockwise: `Prototyping` :arrows_counterclockwise: `Design` :arrows_counterclockwise: `Production`. Where applicable, `Design` phases include `Testing` and `Certification` sub-phases; and `Production` phases include `QA/QC` sub-phases. 
 3. The `Vosges-Management` sub-project is to be consolidated, and includes `aws-iot-test`, [`Website-Reconnaissance-Services`](https://github.com/cpknight/Website-Reconnaissance-Services), and [`Paro`](https://github.com/cpknight/Paro) (user documentation).
@@ -129,9 +129,15 @@ _Notes_:
 | Preliminary             | :stopwatch: **Infinity**                                                      | (Amateur Radio)                           | :green_circle:   |
 | Preliminary             | :stopwatch: **Nautilus**                                                      | (Magnetic Optical Media)                  | :green_circle:   |
 | Preliminary             | :stopwatch: **Polestar**                                                      | (IoT & Electrics 120V/240V 50/60Hz, &c.)  | :green_circle:   |
-| Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
+
+_Miscellaneous Projects &middot; Notes_:
+
+- No notes!
+
 
 <!-- 
+
+| Preliminary             | :stopwatch: **XXX**                                                           | (XXX)                                     | :green_circle:   |
 
 NOTE
 
