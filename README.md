@@ -5,9 +5,9 @@
 :information_source: This repo is simply an index of projects (and their repos) related to the [reconnaissance devices](#reconnaissance-device-design-and-development-projects) that I'm working on, as well as a second table listing [miscellaneous](#miscellaneous-projects) projects. Projects with open source content are indicated with :unlock: unlocked lock' emoji, and your should be able to access these directly. For access to :lock: locked project materials, or for any other reason, please :envelope: [contact me](mailto:chris@cpknight.io).
 
   
-### Reconnaissance Device (Design and Development) Projects
+### Recce Device Projects
 
-| PDLC                    | Project/Repo                                                                  | Description                          | Activty          |    
+| PDLC Phase              | Project/Repo                                                                  | Description                          | Activty          |    
 | :---------------------- | :-----------------------------------------------------------------------------| :----------------------------------- | :--------------: | 
 | Research                | :lock: [**`Ain`**](https://github.com/cpknight/Ain)                           | Freefall/parachute data capture.     | :black_circle:   | 
 | Research                | :lock: **`Garonne`**                                                          | Aerial imagery exploitation methods. | :black_circle:   |  
@@ -166,8 +166,8 @@ Use single-word spaceship names from Robert A. Heinlein’s universe (e.g., Hawk
 |  X  | Polestar    | Construction ship in space station building.                          | Short story: “Delilah and the Space Rigger” (Robert A. Heinlein) |
 |     | Valkyrie    | Ship involved in space ordeal.                                        | Short story: “Ordeal in Space” (Robert A. Heinlein)              |
 |     | Champion    | Ship that transported the Martian to Earth.                           | Novel: Stranger in a Strange Land (Robert A. Heinlein)           |
+|     | Wanderlust  | Passenger ship for interplanetary travel.                             | Novel: Podkayne of Mars (Robert A. Heinlein)                     |
+|     | Serendipity | Exploration torchship seeking new worlds.                             | Novel: Time for the Stars (Robert A. Heinlein)                   |
 
 -->
 
-|     | Wanderlust  | Passenger ship for interplanetary travel.                             | Novel: Podkayne of Mars (Robert A. Heinlein)                     |
-|     | Serendipity | Exploration torchship seeking new worlds.                             | Novel: Time for the Stars (Robert A. Heinlein)                   |
