@@ -146,8 +146,6 @@ Rationale: Inspired by the Raven from The Moon is a Harsh Mistress, symbolizing 
 Schema
 Use single-word spaceship names from Robert A. Heinlein’s universe (e.g., Hawk, Dart, Star, Flame, Scout) for project codenames.
 
--->
-
 ### Starship Projecct Name Table
 
 |  X  | Name        | Description                                                           | Source                                                           |
@@ -168,5 +166,8 @@ Use single-word spaceship names from Robert A. Heinlein’s universe (e.g., Hawk
 |  X  | Polestar    | Construction ship in space station building.                          | Short story: “Delilah and the Space Rigger” (Robert A. Heinlein) |
 |     | Valkyrie    | Ship involved in space ordeal.                                        | Short story: “Ordeal in Space” (Robert A. Heinlein)              |
 |     | Champion    | Ship that transported the Martian to Earth.                           | Novel: Stranger in a Strange Land (Robert A. Heinlein)           |
+
+-->
+
 |     | Wanderlust  | Passenger ship for interplanetary travel.                             | Novel: Podkayne of Mars (Robert A. Heinlein)                     |
 |     | Serendipity | Exploration torchship seeking new worlds.                             | Novel: Time for the Stars (Robert A. Heinlein)                   |
