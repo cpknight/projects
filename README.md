@@ -16,7 +16,7 @@
 | Research/Prototyping    | :lock: [**`Alpes`**](https://github.com/cpknight/Alpes)                       | Freefall data capture experiments.   | :orange_circle:  |  
 | Research/Prototyping    | :lock: [**`Aube`**](https://github.com/cpknight/Aube)                         | Freefall/parachute devices.          | :orange_circle:  |
 | Research/Prototyping    | :lock: [**`Beaufort`**](https://github.com/cpknight/Beaufort)                 | Small parachute designs.             | :orange_circle:  |
-| Prototyping/Design      | :lock: [**`Cantal`**](https://github.com/cpknight/Cantal)                     | Cylindrical device/enclosures.       | :green_circle:   |
+| Prototyping/Design      | :lock: [**`Cantal`**](https://github.com/cpknight/Cantal)                     | Cylindrical device enclosures.       | :green_circle:   |
 | Prototyping/Design      | :lock: [**`Gironde`**](https://github.com/cpknight/Gironde)                   | POE Ethernet recce hard/firmware.    | :green_circle:   |
 | Design/Production       | :lock: [**`Tarn`**](https://github.com/cpknight/Tarn)                         | Small batch device production system.| :green_circle:   |
 | Design/Production       | :lock: [**`Dordogne`**](https://github.com/cpknight/Dordogne)                 | Common parts/sub-assemblies.         | :green_circle:   |
